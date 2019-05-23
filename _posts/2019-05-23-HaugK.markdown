@@ -1,0 +1,26 @@
+---
+title: "Haug, K | Functionalization of transparent conductive ZnO"
+layout: post
+date: 2019-05-23 07:54
+image:
+headerImage: false
+tag:
+- poster
+- material sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Kristian Haug**, Phoung Dan Nguyen, Ole Bjørn Karlsen, Tarjei Bondevik, Thomas Aarholt, Calliope Bazioti, Øystein Prytz_<br/>
+Department of Physics, University of Oslo, Norway.<br/>
+
+## Abstract
+
+Due to their transparency, high band gap and the natural n-type doping, transparent conductive oxides (TCOs) such as zinc oxide have great value as a front contact material for solar cell applications. Since the silicon solar cell absorbs low energy photons and thus leaves higher energy photons to generate heat in the material it would be greatly beneficial to absorb these photons before they enter the silicon solar cell.<br/>
+
+In this work, we have studied the functionalization of ZnO to absorb higher energy photons through embedding ZnFe2O4 spinel nanoparticles in the ZnO matrix. ZnO and Fe2O3 powders were ball milled and pressed into pellets that were homogenized at 1400 °C for 12 hours. After quenching we observed the formation of quasi-periodic structures where iron is located at inversion domain boundaries (IDBs) [1]. Further heat treatment of the samples at lower temperature (1000 °C for 36h) caused the formation of sheet-like ZnFe2O4 nanoparticles in the ZnO matrix with a preferred orientation with the [111] direction of the spinel parallel to the [001] direction in ZnO. The size of the particles could be controlled by varying the composition, duration and temperature of the annealing [2]. Furthermore, the band gap of the particles was measured locally by Electron Energy Loss Spectroscopy (EELS). Finally on the basis of our STEM imaging and simulations combined with DFT calculations, we propose a model describing the growth of the spinel phase where the Fe agglomeration on the IBDs serves as nucleation sites.<br/>
+
+## References
+[1] H.Schmid et al, 2013 Ultramicroscopy 127 76-84.<br/>
+[2] O. Köster‐Scherger et al, 2007 Journal of the American Ceramic Society 90 3984-399.<br/>

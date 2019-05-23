@@ -1,7 +1,7 @@
 ---
 title: "Colding-Jørgensen, S | 3D orientation mapping in the TEM on state-of-the-art Solid Oxide Fuel Cell material CGO"
 layout: post
-date: 2019-05-23 07:56
+date: 2019-05-23 07:55
 image:
 headerImage: false
 tag:
@@ -13,7 +13,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**S. Colding-Jørgensen**1, S. B. Simonsen1, W. Zhang1, L. Theil Kuhn1, S. Schmidt2._<br/>
+_**S. Colding-Jørgensen**<sup>1</sup>, S. B. Simonsen<sup>1</sup>, W. Zhang1, L. Theil Kuhn<sup>1</sup>, S. Schmidt<sup>2</sup>._<br/>
 1 DTU Energy, Technical University of Denmark, Frederiksborgvej 399, 4000 Roskilde, Denmark.<br/>
 2 DTU Physics, Technical University of Denmark, Fysikvej, 2800 Kgs. Lyngby, Denmark.<br/>
 
