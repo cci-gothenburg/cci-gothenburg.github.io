@@ -1,0 +1,32 @@
+---
+title: "Bastos S. Fanta A.  | Adding a new imaging capability to an on-axis TKD detector"
+layout: post
+date: 2019-05-23 07:56
+image:
+headerImage: false
+tag:
+- contributed talk
+- material sciences
+- advanced imaging and diffraction
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Bastos S. Fanta A.** <sup>1</sup>, Fuller A.<sup>1</sup>, Alimadadi H.<sup>1, a</sup>, Todeschini M.<sup>1, b</sup>, Goran D.<sup>2</sup>, Burrows A.<sup>1</sup>_<br/>
+1 Denmark technical university, DTU Nanolab, Kgs. Lyngby, Denmark.<br/>
+2 Bruker Nano GmbH, Berlin, Germany.<br/>
+a now at: Danish Technological Institute,  Denmark.<br/>
+b now at: BlueScientific Ltd., UK., now at: ISS Group Services Ltd, UK.<br/>
+
+## Abstract
+
+Transmission Kikuchi diffraction (TKD) in the scanning electron microscope has been developing since its emergence less than a decade ago. The recently introduced on-axis detector configuration [1], with its optimized geometry, has significantly increased the signal yield and consequently positively influenced the measurement parameters and speed. Furthermore, a Si diodes based imaging system attached to the detector allows the collection of STEM bright and dark field images. When combined with TKD orientation measurements, the SEM is practically transformed into a low voltage transmission electron microscope. In this perspective, a MEMS based heating system, conventionally developed for TEM in-situ investigation, can now be used in the SEM in combination with TKD to investigate dynamical behaviour of thin films and nano particles [2].<br/>
+
+One current existing limitation of in-situ microstructure investigations with on-axis TKD is the simultaneous acquisition of STEM image and orientation measurements. The position of the imaging system, located outside the phosphor screen, requires a movement of the camera to acquire high resolution STEM images and high resolution orientation measurements. This work presents a solution to this limitation by introducing an additional imaging capability to the centre of the screen, which allows acquisition of STEM images and orientation maps without any detector movement.<br/>
+
+In this presentation the development of the prototype detector with an additional imaging system will be described and compared to the standard on-axis TKD detector in terms of indexing precision and indexing rate. Furthermore, suggestion of improvement to the prototype design and additional developments ideas will be presented. Finally the combination of on-axis TKD and STEM images at elevated temperature using MEMS based heating system will be demonstrated and the advantages and limits of this new detector configuration discussed.<br/>
+
+## References
+[1] Fundenberger, J. J.; Bouzy, E.; Goran, D.; Guyon, J.; Yuan, H.; Morawiec, A. Orientation Mapping by Transmission-SEM with an on-Axis Detector. Ultramicroscopy 2016, 161, 17–22.<br/>
+[2] Fanta, A. B.; Todeschini, M.; Burrows, A.; Jansen, H.; Damsgaard, C. D.; Alimadadi, H.; Wagner, J. B. Elevated Temperature Transmission Kikuchi Diffraction in the SEM. Mater. Charact. 2018, 139, 452–462.<br/>

@@ -1,14 +1,14 @@
 ---
 title: "Rafael Camacho | Title of my great presentation"
 layout: post
-date: 2019-05-23 08:00
+date: 2019-05-23 02:00
 image: https://cf.gu.se/digitalAssets/1717/1717854_rafa_184px_2.jpg
 headerImage: true
 tag:
 - plenary
 - life sciences
 - super resolution
-category: abstracts
+category: projects
 author:
 #description: Markdown summary with different options
 ---

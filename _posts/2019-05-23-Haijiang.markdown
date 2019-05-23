@@ -1,14 +1,14 @@
 ---
 title: "Haijiang Zhang | Title of my great presentation"
 layout: post
-date: 2019-05-23 07:00
+date: 2019-05-23 01:00
 image: https://cf.gu.se/digitalAssets/1688/1688543_haijiang-zhang_184px.jpg
 headerImage: true
 tag:
 - invited
 - material sciences
 - lab in a chip
-category: abstracts
+category: projects
 author:
 #description: Markdown summary with different options
 ---

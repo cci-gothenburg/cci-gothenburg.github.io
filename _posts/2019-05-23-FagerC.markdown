@@ -1,0 +1,29 @@
+---
+title: "Fager, C. | FIB-SEM tomography on porous polymer coatings used for controlled drug release."
+layout: post
+date: 2019-05-23 07:56
+image:
+headerImage: false
+tag:
+- poster
+- material sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Cecilia Fager**<sup>1</sup>, Magnus Röding<sup>2</sup>, Sandra Eriksson Barman<sup>4</sup>, Tobias Gebäck<sup>4</sup>, Anna Olsson<sup>3</sup>, Niklas Lorén<sup>1, 2</sup>, Christian von Corswant<sup>3</sup>, Aila Särkkä<sup>4</sup> and Eva Olsson<sup>1</sup>_.<br/>
+1 Department of Physics, Chalmers University of Technology, SE-41296 Gothenburg, Sweden.<br/>
+2 RISE Research Institutes of Sweden, Agrifood and Bioscience, Gothenburg, Sweden.<br/>
+3 AstraZeneca R&D Mölndal, SE43183 Mölndal, Sweden.<br/>
+4 Department of Mathematical Sciences, Chalmers University of Technology and University of Gothenburg, Gothenburg, Sweden.<br/>
+
+## Abstract
+
+3D reconstruction of microstructures of materials by serial sectioning using a combined focused ion beam with scanning electron microscopy (FIB-SEM) is a well-established procedure. However, beam sensitive and poor conduction materials are challenging. The electron beam may give rise to accumulation of charges at the surface due to poor electrical conduction and cause image distortion. Another challenge is that the ion beam can induce curtaining effects [1]. The presence of pores introduces a third challenge. The sub-surface pore information and the varying intensity from the sub-surface areas give rise to grayscale intensity overlaps between solid and pore which complicate image processing and segmentation for 3D reconstruction. We have addressed the three challenges above in coatings for controlled drug release. A drug core is coated with a phase-separated polymer film [2]. The films consist of ethyl cellulose (EC), water insoluble, and hydroxypropyl cellulose (HPC), water soluble, mixed with ethanol as solvent. A phase-separation occurs when the ethanol evaporates. The two polymers form a bi-continuous network where the HPC can be removed by leaching the films in body fluids. Provided that the HPC phase forms a continuous network the resulting porous film provides transport paths for the drug. Therefore, the drug release partly depends on the HPC weight percent [3]. Other factors that affect the drug release characteristics are the connectivity and the tortuosity. Previous studies have shown an onset of drug release at a weight percent of 22% HPC. Lower weight percentages give lower film permeability while the permeability increases for higher. We have studied the porous network in leached free-standing EC/HPC films with the weight percent 22 % (HPC22), 30 % (HPC30) and 45 % (HPC45). The binary data are used for the 3D reconstruction and the determination of pore size distribution, connectivity, tortuosity, morphology and to perform diffusion simulations. Finally, this information is used to correlate the microstructure with mass transport through the films.<br/>
+
+## References
+[1] Narayan, K. and Subramaniam., Focused ion beam in biology. Nature Methods, 2015, 12: p. 1021-1031.<br/>
+[2] Jansson, A., et al., Novel Method for Visualizing Water Transport Through Phase-Separated Polymer Films. Microscopy and Microanalysis, 2014, 20(2): p. 394-406.<br/>
+[3] Marucci, M., et al., Coated formulations: New insights into the release mechanism and changes in the film properties with a novel release cell. Journal of Controlled Release, 2009. 136(3): p. 206-212.<br/>
+[4] H. Schulz., et al., Advantages of a local charge compensation system for FIB/SEM applications on insulating materials. Microscopy and Microanalysis, 2009, 15(Suppl 2): P. 332.<br/>

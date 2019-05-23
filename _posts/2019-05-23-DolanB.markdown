@@ -1,0 +1,25 @@
+---
+title: "Dolan, B. | The use of live cell imaging to investigate compound mucus exocytosis from goblet cells"
+layout: post
+date: 2019-05-23 07:59
+image:
+headerImage: false
+tag:
+- poster
+- life sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Brendan Dolan**,<sup>1</sup> Carlos A. Flores,<sup>2</sup> Gunnar C. Hansson<sup>1</sup>_.<br/>
+1 University of Gothenburg, Gothenburg, Sweden.<br/>
+2 Centro de Estudios Científicos, Valdivia, Chile.<br/>
+
+## Abstract
+
+Intestinal crypt goblet cells can accumulate large amounts of MUC2, the key structural component of the intestinal mucus layer. These cells can rapidly discharge their contents in response to external stimuli such as acetylcholine, in a process known as compound exocytosis. Acetylcholine stimulation also initiates rapid ion transport across the intestinal epithelium. The role of compound exocytosis in health and disease has not been well described and the molecular mechanisms underlying this dramatic secretion event are poorly understood. The contribution of ion transport to this form of mucus secretion remains to be elucidated.<br/>
+
+Intestinal organoids mimic the crypt villus axis and provide a reliable culture system to investigate the cell biology of the intestinal epithelium. In the current study we utilize organoids generated from transgenic mice, producing a mCherry labelled MUC2, to study compound mucin exocytosis in response to carbachol and to investigate the role of ion transport in this process. High resolution live cell imaging and electrophysiological measurements have been used to study both mucus and ion secretion.<br/>
+
+Basolateral stimulation of organoids with carbachol results in a rapid emptying of goblet cells in conjunction with ion secretion beginning at the base of the crypt. Mucus secretion is dependent on Ca2+-signaling pathways whereas ion secretion requires activation of cAMP signaling cascades. Inhibition of either of these signaling pathways results in altered compound secretion of goblet cell contents. Results presented here highlight the importance the integrated response of both goblet cells and enterocytes in the successful completion of compound mucus secretion. This indicate that compound exocytosis may form an important last line of defense in protecting the intestinal stem cell niche from challenge from external stimuli.<br/>
