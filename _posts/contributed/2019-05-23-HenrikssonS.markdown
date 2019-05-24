@@ -5,6 +5,7 @@ date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
+- poster
 - life sciences
 - Imaging across scales, Multimodal imaging
 category: projects

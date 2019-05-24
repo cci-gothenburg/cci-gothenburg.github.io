@@ -13,8 +13,9 @@ author:
 ---
 
 _**Rachela Popovtzer**_<br/>
-Institute of Nanotechnology and Advanced Materials, Bar-Ilan University, Israel<br/>
+Faculty of Engineering and the Institute of Nanotechnology and Advanced Materials,
+Bar-Ilan University<br/>
 
 ## Abstract
 
-text.<br/>
+Cell-based therapy offers a promising solution for the treatment of diseases and injuries that conventional medicines and therapies cannot cure effectively, and thus comprises an encouraging arena for future medical breakthroughs. The development of an accurate and quantitative non-invasive cell tracking technique is a highly challenging task, which could elucidate essential knowledge regarding fundamental trafficking patterns and poorly-understood mechanisms underlying the success or failure of cell therapy. This talk will focus on gold nanoparticles (GNPs), which provide cells and even exosomes with 'visibility' in a variety of medical conditions. Current challenges and future prospects relating to the use of GNPs in such roles are discussed.<br/>

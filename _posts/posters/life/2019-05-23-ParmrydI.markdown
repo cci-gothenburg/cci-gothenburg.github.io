@@ -1,5 +1,5 @@
 ---
-title: "Parmryd, I. | Title"
+title: "Parmryd, I. | Membrane topography invalidates membrane models"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -15,6 +15,10 @@ author:
 _**NAME**_.<br/>
 1 Address.<br/>
 
+_**Ingela Parmryd**<sup>1</sup>, Jeremy Adler<sup>1</sup>, Ida-Maria Sintorn<sup>2</sup>, Robin Strand<sup>2</sup>_
+1 Institute of Biomedicine, The Sahlgrenska Academy, University of Gothenburg.<br/>
+2 Department of Information Technology, Uppsala University.<br/>
+
 ## Abstract
 
-Text.<br/>
+Contemporary plasma membrane models are built on observation of molecular movement and are the basis for our understanding of cellular processes like cell signalling, adhesion and vesicular transport. We have previously demonstrated that live cells are neither flat nor smooth, which has serious implications for these models. Several features of the models are based on interpretations of single particle tracks (SPT) on live cells. SPT reports that diffusion in the plasma membrane is much slower than in artificial membranes and that the motion is non-Brownian (anomalous): i.e. change the rate of movement over time. SPTs are generally analysed using the mean squared deviation of Euclidean distance measurements, but only with a flat and horizontal membrane does the straight-line distance between successive locations correctly measure the net movement. Microscopy shows that plasma membranes are non-flat, so a 2D analysis requires that molecules leave and later rejoin the surface – an impossible path for lipids and membrane proteins that are highly unlikely to leave the membrane to enter an aqueous environment. 3D tracking is an improvement, but the Euclidean path still require molecular departure from the membrane. To establish the magnitude of the problem we used simulations of simple diffusion to produce probability distributions. We demonstrate that 2D and 3D Euclidean distances substantially underestimate diffusion on non-flat surfaces and incorrectly report anomalous diffusion, resembling hop diffusion. We find that the shortest within surface distance (SWSD), the geodesic distance, correctly reports movement for foldable surfaces but still underestimates movement on deformed (unfoldable) surfaces. The unexpected reason is that topographical features alone can produce both super- and subdiffusion, i.e. the appearance of anomalous diffusion. Even using the SWSD, topography-uncorrected diffusion measurements are unable fail to perfectly report the interaction between a diffusing species and a non-flat surface. We conclude that differentiating between topography-induced and genuine anomalous diffusion requires characterisation of the surface by simulating Brownian motion on 3D high resolution cell surface images, followed by a comparison with the experimental observations. Our findings challenge all contemporary membrane models based on the interpretation of observation that fail to consider topography, which is … most of them.<br/>

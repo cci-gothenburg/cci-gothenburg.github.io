@@ -17,4 +17,4 @@ _**Peijun Zhang**_<br/>
 
 ## Abstract
 
-text.<br/>
+Structural Biology using single particle cryoEM and cryo-electron tomography (cryoET) has become a major tool for studying macromolecular assemblies that are intrinsically flexible and dynamic, and often function in higher-order assemblies that are difficult to purify. The study of these complexes and assemblies in situ using cryoET and sub-tomogram averaging to sub-nanometer to near-atomic resolutions, coupled with cryoFIB and correlative and integrative imaging, opens a new frontier in structural cell biology, as exemplified in virus infection in human cells. I will present some of our technology development towards this goal and our recent studies of in situ virus assembly process to demonstrate the power of cryoET and sub-tomogram averaging.<br/>

@@ -1,5 +1,5 @@
 ---
-title: "Jans, Daniel C. | Title"
+title: "Jans, Daniel C. | ALM (Advanced Light Microscopy) – Super-resolution microscopy support for YOU"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,9 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Daniel C. Jans**_.<br/>
+Science for Life Laboratory, KTH.<br/>
 
 ## Abstract
 
-Text.<br/>
+The mission of the Advanced Light Microscopy facility is to provide support with advanced fluorescence microscopy for nanoscale biological visualization using SIM, STED, STORM/PALM super-resolution imaging. Support is provided at all stages of the project including (pre)planning, sample optimization, fluorescent probe selection, image acquisition, and post-acquisition image processing. The techniques enable the investigation of the molecular architecture of sub-cellular entities or the organization of protein localization in cells with sub-diffraction resolution. Potential Samples include bacteria, single cells or tissues and can be fixed, cleared/expanded or even live. Collaborative project management and transfer of unique knowledge to individual researchers are supported nationally, including organization of workshops and courses in advanced fluorescence imaging and spectroscopy applications and method developments.<br/>
