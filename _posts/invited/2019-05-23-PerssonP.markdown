@@ -12,8 +12,21 @@ author:
 ---
 
 _**Per Persson**_<br/>
-Ångströmhuset – Electron Microscopy, University of Linköping, Sweden<br/>
+Thin Film Physics Division, Department of Physics, Chemistry and Biology (IFM), Linköping University<br/>
 
 ## Abstract
 
-text.<br/>
+Transition metal carbides, carbonitrides and nitrides, MXenes, constitute the latest addition to the ever-growing family of two-dimensional (2D) materials.[1]  Since their discovery in 2011, MXenes have outperformed existing materials for a range of applications such as energy storage [2], water filtering [3], electromagnetic shielding [4], as catalysts for H2 evolution from water [5] and as astonishingly effective materials for capturing CO2 [6] to name but a few examples. Their outstanding performance is accredited to a range of properties, e.g. hydrophilic and conductive, that can be attributed to a rich transition metal chemistry. Ultimately, the range of properties are dictated by the tailoring potential of the MXenes. In this respect, MXenes stand out in stark contrast to commonly employed 2-dimensional structures.<br/>
+
+The first MXene to be discovered was Ti3C2Tx, and this material has remained the archetype MXene ever since. Currently, in excess of 20 complementary structures have been synthesized with many more predicted from theoretical investigations.[7] The general formula to describe MXenes, Mn+1XTx , identifies that the tailoring potential in the MXene family is vast. In addition to choice of thickness (n) and X element, for instance, M can be a range of single transition metal elements, or an extensive set of combinations between multiple M elements in an ordered or disordered condition. Similarly, the range and corresponding potential mix of terminating elements or molecules is an apparent key in determining the final MXene properties.<br/>
+
+The present contribution discusses the state of the art available tailoring of the MXene properties owing to recent advances in structural ordering and tuning of surface terminations, as revealed by high resolution electron microscopy and spectroscopy in combination with X-ray photoelectron spectroscopy methods. <br/>
+
+## References
+[1] M. Naguib, et al. Adv. Mater. 2011, 23: 4248-4253 <br/>
+[2] B. Anasori, M. R. Lukatskaya, Y. Gogotsi, Nature Reviews Materials 2017 2: 16098 <br/>
+[3] C. E. Ren et al., J. Phys. Chem. Lett., 2015,  6: 4026-4031<br/>
+[4] F. Shahzad et al Science 2016, 353: 1137-1140<br/>
+[5] C. H. Wang, et al., Energy Environ. Sci., 2013, 6: 943-951<br/>
+[6] I. Persson et al. Adv. Mater. 2019, 31: 1805472<br/>
+[7] M. Khazaei, et al. Adv. Funct. Mater. 2013, 23: 2185-2190<br/>

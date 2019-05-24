@@ -16,4 +16,4 @@ Electrical Engineering Department, University of California Santa Cruz, USA<br/>
 
 ## Abstract
 
-text.<br/>
+Aberration-corrected multifocus microscopy (MFM) is a unique wide-field imaging method that delivers simultaneous 3D data to allow fast live imaging in a variety of biological specimens. Combining MFM with Structured Illumination Microscopy (SIM) yields a fast and powerful microscope with true optical sectioning and resolution extensions in all three dimensions of space (Abrahamsson et al. BOE 2017). We here present this powerful "MF-SIM" imaging system and also the first working prototype our latest innovation --- the multicamera 25-plane multifocus microscope (M25) --- that employs an array of 25 simultaneously running fast and sensitive CMOS cameras specially designed for functional neuronal imaging.<br/>

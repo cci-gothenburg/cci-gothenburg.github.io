@@ -16,4 +16,4 @@ VIB Bioimaging Core, Belgium<br/>
 
 ## Abstract
 
-text.<br/>
+The rapid development and increasing number of instruments using Serial Block Face and Focused Ion Beam SEM have been revealing ultrastructral details that greatly amplify what was observed in previous EM studies.  Structures such as plasmodesma, mitochondria, endoplasmic reticulum and nuclear pores appear generally more complex when their full geometry is revealed in 3D. The real breakthrough in these techniques is the large volumes that can be imaged and then reconstructed at high resolution. As volume EM studies continue to expand, and the number of cells and tissues imaged using these techniques increases, so will our understanding of how cytoskeleton, organelles and intracellular protein complexes interact in 3D space. <br/>

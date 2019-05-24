@@ -12,8 +12,9 @@ author:
 ---
 
 _**Peter Horvath**_<br/>
-Synthetic and Systems Biology Unit, Hungarian Academy of Sciences, Hungary<br/>
+Institute director, Finland Distinguished Processor <br/>
+Hungarian Academy of Sciences, Institute for Molecular Medicine <br/>
 
 ## Abstract
 
- Text<br/>
+ In this talk I will give an overview of the computational steps in the analysis of a single cell-based high-content screen. First, I will present a novel microscopic image correction method designed to eliminate vignetting and uneven background effects which, left uncorrected, corrupt intensity-based measurements. I will discuss the Advanced Cell Classifier (ACC) (www.cellclassifier.org), a software tool capable of identifying cellular phenotypes based on features extracted from the image. It provides an interface for a user to efficiently train machine learning methods to predict various phenotypes. We developed the Suggest a Learner (SALT) toolbox, which selects the optimal machine learning algorithm and parameters for a particular classification problem. For cases where discrete cell-based decisions are not suitable, we propose a method to use multi-parametric regression to analyze continuous biological phenomena. Finally, to improve the learning speed and accuracy, we recently developed an active learning scheme which automatically selects the most informative cell samples<br/>

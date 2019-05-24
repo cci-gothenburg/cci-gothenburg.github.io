@@ -24,7 +24,7 @@ Liquid STEM was used to explore the formation of HER2 homodimers at the single-m
 
 Liquid STEM was also used to explore the behavior of nanoparticles in liquid in time-lapse experiments. It was discovered that nanoparticle movement in close proximity of the supporting silicon nitride membrane was three orders of magnitude slower than what was expected on the basis of Brownian motion for a bulk liquid [8], pointing to the existence of a layer of highly ordered liquid at the membrane.<br/>
 
-##References
+## References
 [1]	de Jonge, N. and Ross, F.M. Nat. Nanotechnol., 6, 695-704 (2011)<br/>
 [2]	de Jonge, N., et al. Proc. Natl. Acad. Sci., 106, 2159-2164 (2009)<br/>
 [3]	Peckys, D.B., et al. Sci. Adv., 1, e1500165 (2015)<br/>

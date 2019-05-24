@@ -16,4 +16,16 @@ School of Biochemistry, University of Bristol, England<br/>
 
 ## Abstract
 
-text.<br/>
+Correlative light and electron microscopy (CLEM) combines the strengths of fluorescence and electron imaging in a single experiment, providing greater insight into the dynamics and subcellular localisation of proteins than that, which is achievable by each technique alone. Correlative imaging encompasses a broad range of different imaging modalities and workflows. The field is continually expanding with the emergence of new probes and equipment and has underpinned many key discoveries within biomedical research.<br/>
+
+Synthetic biology involves both the design and construction of entirely new biological structures and systems and the re-design and engineering of pre-existing natural systems with enhanced or new functionalities. This cross disciplinary field aims to provide solutions to many of the major global challenges; through the generation of new biofuels, materials and medicines.<br/>
+
+We take inspiration from nature to design and create self-assembling structures, such as nanoparticles [1] and filaments [2] formed from de novo synthetic coiled-coil modules, that are both stable and functional within mammalian and bacterial cells.<br/>
+
+One such exciting application within the field of synthetic biology is the generation of synthetic nanoparticles as vehicles for drug and biomolecule encapsulation and delivery in eukaryotic cells [1]. Our research employs rational peptide design to fine-tune the bioactivity of our nanoparticles; controlling particle uptake, trafficking and detection within cells [3]. We utilise techniques used within cell biology research, in addition to a range of different CLEM workflows in order to analyse how these synthetic systems are taken up, trafficked and processed in cells. These studies highlight the potential of de novo designed systems as customised cell delivery vehicles for targeted and controlled drug delivery. Furthermore, our studies demonstrate how CLEM is a useful and somewhat underutilised tool within the wider field of synthetic biology. <br/>
+
+## References
+
+[1] Fletcher, J., R. Harniman, F. Barnes, A. Boyle, A. Collins, J. Mantell, T. Sharp, M. Antognozzi, P. Booth, N. Linden, M. Miles, R. Sessions, P. Verkade and D. Woolfson (2013). Self-assembling cages from coiled-coil peptide modules. Science, 340: 595-599.<br/>
+[2] Lee, M., J. Mantell, L. Hodgson, D. Alibhai J. Fletcher, I. Brown, S. Frank, W. Xue, P. Verkade, D. Woolfson  and M. Warren (2018). Engineered synthetic scaffolds for organizing proteins within the bacterial cytoplasm. Nat Chem Bio, 14: 142-147.<br/>
+[3] Beesley, J., H. Baum, L. Hodgson, P. Verkade, G. Banting and D. Woolfson (2018). Modifying self-assembled peptide cages to control internalisation into mammalian cells. Nano Let, 18: 5933-5937.<br/>

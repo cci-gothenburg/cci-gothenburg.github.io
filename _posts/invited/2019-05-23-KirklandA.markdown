@@ -12,8 +12,10 @@ author:
 ---
 
 _**Angus Kirkland**_<br/>
-Oxford University, UK and Science Director of ePSIC, Diamond Lightsource.<br/>
+Department of Materials, University of Oxford <br/>
+Electron Physical Sciences Imaging Centre, Diamond Lightsource Ltd, Harwell Science & Innovation Campus<br/>
 
 ## Abstract
 
-text.<br/>
+This lecture will describe firstly recent developments in the use of Scanning Transmission and Transmission Electron Microscopy applied to studies of dynamics in low dimensional materials.<br/> 
+I will describe recent work use high speed direct electron detectors with neural network processing to automatically map defect and adatom migrations within large data sets offering the possibility of directly measuring kinetic parameters on a local scale.<br/>
