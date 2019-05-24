@@ -1,0 +1,20 @@
+---
+title: "Zhang, P. | CryoEM of virus infections in human cells"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2018/10/PeijunZhang.jpg
+headerImage: true
+tag:
+- keynote
+
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Peijun Zhang**_<br/>
+ Director of eBIC, Diamond Light Source, University of Oxford, UK<br/>
+
+## Abstract
+
+text.<br/>
