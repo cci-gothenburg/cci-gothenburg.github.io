@@ -1,0 +1,19 @@
+---
+title: "Eggeling, C. | Automated 3D electron diffraction techniques for high-throughput phase analysis and ab initio structure determination – from inorganics to proteins"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2019/05/Xiaodong-Zou.jpg
+headerImage: true
+tag:
+- invited
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Xiaodong Zou**_<br/>
+Head of the Department of Materials and Environmental Chemistry, Stockholm University<br/>
+
+## Abstract
+
+text.<br/>

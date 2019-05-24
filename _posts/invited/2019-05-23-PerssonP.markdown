@@ -1,0 +1,19 @@
+---
+title: "Persson, P. | Tailoring of 2-dimensional MXene composition, structure and surface chemistry"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2018/12/Per-Persson.jpg
+headerImage: true
+tag:
+- invited
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Per Persson**_<br/>
+Ångströmhuset – Electron Microscopy, University of Linköping, Sweden<br/>
+
+## Abstract
+
+text.<br/>

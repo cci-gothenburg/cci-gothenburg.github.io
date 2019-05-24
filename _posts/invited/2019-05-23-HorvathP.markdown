@@ -1,0 +1,19 @@
+---
+title: "Horvath, P. | Life beyond the pixels: image analysis and deep learning methods for quantitative microscopy"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2018/10/PeterHorvath.jpg
+headerImage: true
+tag:
+- invited
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Peter Horvath**_<br/>
+Synthetic and Systems Biology Unit, Hungarian Academy of Sciences, Hungary<br/>
+
+## Abstract
+
+ Text<br/>

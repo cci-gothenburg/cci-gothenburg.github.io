@@ -1,0 +1,19 @@
+---
+title: "Guerin, C. | It’s not as simple as we thought: Volume EM brings the 3rd dimension to nanoscale morphology"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2019/03/ChrisGuerin.jpg
+headerImage: true
+tag:
+- invited
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Christopher Guerin**_<br/>
+VIB Bioimaging Core, Belgium<br/>
+
+## Abstract
+
+text.<br/>

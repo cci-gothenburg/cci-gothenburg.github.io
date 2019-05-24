@@ -1,0 +1,19 @@
+---
+title: "Hodgson, L. | CLEM meets synthetic biology"
+layout: post
+date: 2019-05-23 14:00
+image: https://media.scandem2019.se/2019/05/Lorna-Hodgson.jpg
+headerImage: true
+tag:
+- invited
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Lorna Hodgson**_<br/>
+School of Biochemistry, University of Bristol, England<br/>
+
+## Abstract
+
+text.<br/>
