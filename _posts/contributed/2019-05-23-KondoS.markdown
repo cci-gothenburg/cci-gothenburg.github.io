@@ -10,7 +10,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_*Shun Kondo**, Shun Kondo, Eita Tochigi, Naoya Shibata, Yuichi Ikuhara_<br/>
+_**Shun Kondo**, Shun Kondo, Eita Tochigi, Naoya Shibata, Yuichi Ikuhara_<br/>
 Institute of Engineering Innovation, The University of Tokyo, Japan<br/>
 
 ## Abstract

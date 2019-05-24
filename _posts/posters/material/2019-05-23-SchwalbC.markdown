@@ -1,5 +1,5 @@
 ---
-title: "Schwalb, C. | Title"
+title: "Schwalb, C. | Correlative In-Situ Analysis of nanostructures by combination of AFM, SEM, and FIB"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,17 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Christian Schwalb**<sup>1</sup>, Stefan Hummel<sup>1</sup>, Pinar Frank<sup>1</sup>, Jürgen Sattelkow<sup>2</sup>, Robert Winkler<sup>2</sup>, Georg Fantner<sup>3</sup>_.<br/>
+1 GETec Microscopy GmbH, Vienna.<br/>
+2 FELMI, Graz.<br/>
+3 EPFL, Lausanne.<br/>
+4 (FELMI, Graz).<br/>
+
 
 ## Abstract
 
-Text.<br/>
+The combination of different analytical methods into one instrument is of great importance for the simultaneous acquisition of complementary information. Especially the in-situ combination of scanning electron microscopy (SEM) and atomic force microscopy (AFM) enables completely new insights in the micro and nano world. In this work, we present a unique AFM – the AFSEM - that can be easily integrated into the high-vacuum environment of almost any SEM or other host system (e.g. dual beam microscopes). It allows direct in-situ combination of these complementary techniques due to the simultaneous operation of SEM and AFM inside the vacuum chamber. Therefore, SEM imaging, chemical or crystallographic information by EDX and EBSD, real 3D topography, phase information, mechanical, electrical, magnetic and thermal properties by AFM can be combined in an easy and interactive way.<br/>
+
+We will present a variety of case studies to highlight the advantages of correlative in-situ analysis for different materials. We will demonstrate the analysis of bone tissue and show how the SEM allows to quickly identify the area of interest, in this case the lacunae on the surface of the bone structure. The AFM then provides the real 3D topography inside the lacunae and enables the detailed analysis of the collagen fibers within the lacunae area. Furthermore, we will present first results using novel self-sensing cantilever with functionalized tips for conductive, magnetic or thermal measurements, that are fabricated by the 3D nano-printing technique using focused electron-beam induced deposition (FEBID). We show results for in-situ electrical and magnetic characterization of nanostructures by combining SEM and conductive AFM or MFM measurements. In a further step, we demonstrate how in-situ correlative analysis with the AFSEM in an SEM can be extended into the third dimension to measure nanomechanical properties of soft material. To achieve this, FIB slicing and mapping of nanomechanical properties using the AFSEM is performed in repetitive steps to build up a 3-dimensional elasticity map.<br/>
+
+Based on the broad variety of applications regarding the characterization of different materials and devices we anticipate the AFSEM to be one of the driving characterization tools for correlative SEM/FIB/AFM analysis in the future.<br/>

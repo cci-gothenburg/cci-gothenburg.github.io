@@ -1,5 +1,5 @@
 ---
-title: "Vippola, M. | Title"
+title: "Vippola, M. | Correlating in-situ nanoindentation, EDS and EBSD characterization results: Case study of flame cut wear-resistant steel plates"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,13 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_Tuomas Jokiaho<sup>1</sup>, Aloshious Lambai<sup>1</sup>, Mari Honkanen<sup>2</sup>, Gaurav Mohanty<sup>1</sup>, **Minnamari Vippola**<sup>1,2</sup>_.<br/>
+1 Materials Science and Environmental Engineering, Tampere University, Finland.<br/>
+2 Tampere Microscopy Center, Tampere University, Finland.<br/>
+
 
 ## Abstract
 
-Text.<br/>
+In-situ nanoindentation in a SEM offers many advantages over standard ex-situ nanoindentation. The material deformation occurring during the indentation can be viewed using SE imaging and the indents can be placed at specific sites of interest with very high spatial resolution (less than 50 nm) on a specimen. In contrast, ex-situ nanoindentation offers a spatial resolution of ~ 1µm typically limited by the optical microscope. This poster will introduce in-situ nanoindentation technique and present a case study on wear resistant steels combining in-situ nanoindentation, EDS and EBSD data to correlate mechanical, chemical and structural information in an integrated fashion.<br/>
+
+Thick wear-resistant steel plates, typically having a layered structure and, consequently, varying mechanical properties across the thickness, are used in various demanding applications. Flame cutting of these plates can result in the development of cracks due to varying residual stresses and heat affected zone introduced in the processing step. It is necessary to understand the local property changes around these cracks to gain insights into the origin of cracking during flame cutting. Fine scale, local property changes spatially occurring around the cracks formed during flame cutting in steel plates were investigated using in-situ nanoindentation and analytical electron microscopy techniques. A flame cut, wear resistant steel specimen exhibiting cracks was used for in-situ nanoindentation in a SEM.  Indents were spaced 25 µm from each other near the cracks to study local hardness and modulus changes. Material pile up around the indenter tip was observed in the SEM during indentation. Hardness and elastic modulus were determined from each of the indents using contact mechanics solutions (Oliver and Pharr method). The trends in hardness variations were correlated with EDS and EBSD property measurements performed in the indented region. It was found that the local chemical and structural changes correlated well with the in-situ nanoindentation results. The heat affected zone showed lower hardness than the base metal, as expected. Such an integrated approach at the micron scale, as outlined in this poster, can be used to study cracking and interface property changes more effectively in various metallic material systems in comparison to conventional approach involving bulk mechanical test techniques.<br/>
