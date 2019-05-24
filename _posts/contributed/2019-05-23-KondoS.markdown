@@ -10,9 +10,13 @@ author:
 #description: Markdown summary with different options
 ---
 
-_*Shun Kondo**_<br/>
-Address<br/>
+_*Shun Kondo**, Shun Kondo, Eita Tochigi, Naoya Shibata, Yuichi Ikuhara_<br/>
+Institute of Engineering Innovation, The University of Tokyo, Japan<br/>
 
 ## Abstract
 
-TExt. <br/>
+In many ceramics, grain boundaries behave as a preferential paths for crack propagation, and thus grain boundary fracture is a critical problem on the materials’ reliability. Since the grain boundary fracture is the sequential atomic-bond rupture process within the grain boundary core, the atomic-scale crack propagation path have crucial influence on the fracture properties. Many possible propagation paths can be considered within a grain boundary core, especially in the case that the grain boundary has a complicated structure such as dopant-segregated grain boundaries. However, it is still a major experimental challenge to determine the atomic crack propagation path in the actual grain boundary fracture. Here, we carried out nanoindentation experiments inside a TEM to introduce a sub-micro crack along the dopant-segregated Al2O3 grain boundary, and then observed the atomic structures of as-fracture surfaces by STEM to determine the atomic-scale crack propagation path.<br/>
+
+To obtain a well-defined grain boundary specimen, we prepared bicrystal specimen including the Zr-doped Al2O3 Σ13 grain boundary. The TEM nanoindentation experiments were performed using a conventional TEM (JEM-2010, JEOL Ltd.), equipped with the double-tilt TEM-Nanoindenter holder (Nanofactory Instrument AB.). For the atomic-scale structural analyses, the aberration-corrected STEM (ARM-200CF, JEOL Ltd.) was used.<br/>
+
+In the TEM nanoindentation experiments, we introduced a crack along the grain boundary with the length of ~300 nm in a controlled manner, and successfully obtained as-fractured surfaces. The atomic structures of the as-fractured surfaces were directly observed by STEM. Comparing as-fractured surface structure with the initial grain boundary structure, the atomic-scale fracture path within the grain boundary core was determined, where the crack propagated in zigzag within the segregated Zr layer. Also, the first-principles calculations reveal the experimentally determined fracture path has the minimum cleavage energy for this grain boundary. The detailed experimental procedures and the relationship between the atomic-scale crack propagation path and the grain boundary structure will be discussed in the presentation.<br/>

@@ -1,5 +1,5 @@
 ---
-title: "Bastos S. Fanta, A. | Title"
+title: "Bastos S. Fanta, A. | The perspectives of filtering the saturated signal for on-axis TKD"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,16 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Bastos, S. Fanta A.**, and Fuller, A._
+1 DTU-Nanolab, Kg. Lyngby, Denmark.<br/>
+
 
 ## Abstract
 
-Text.<br/>
+Transmission Kikuchi diffraction (TKD) is a novel technique to characterize crystalline materials in the scanning electron microscope with improved spatial resolution in comparison to EBSD. It was first introduced by Keller in 2012 1 and despite its early age, the technique has attracted considerable interest in many fields of materials science and has experienced some development, as for example with the introduction of on-axis TKD by Fundenberger2. On-axis TKD differs from standard (or off-axis) TKD, primarily by the geometric position of the detector, which is positioned bellow the electron transparent sample. The on-axis configuration has the advantage that TKD maps can be performed at lower beam currents and using shorter acquisition times, since the position of the detector favours the collection of high intensity signal made of low angle scattered electrons. Furthermore, the new geometry also minimizes the gnomonic projection distortion of the patterns. However it requires a modification of the EBSD detector, which is not the case for the original TKD configuration.<br/>
+
+One characteristic feature of the on-axis TKD pattern is the presence of an overexposed area at the centre of the screen, caused by the direct beam oversaturating the detector. Up to this point, there has not been any clear evidence that this oversaturated area affects the quality of pattern indexing, or measurement accuracy, however the elimination or size reduction of this saturated area has not yet been evaluated. It can be speculated that it would improve the indexing accuracy for high resolution TKD measurements. In this presentation a simple solution to filtering the signal of the transmitted beam and consequently decrease the oversaturated signal at the detector will be presented and investigated with respect to the indexing reliability and pattern intensity. Furthermore the advantages, disadvantages and perspectives of filter will be discussed.<br/>
+
+## References:
+(1) Keller, R. R.; Geiss, R. H. Transmission EBSD from 10 Nm Domains in a Scanning Electron Microscope. J. Microsc. 2012, 245 (3), 245 - 251.<br/>
+(2) Fundenberger, J. J.; Bouzy, E.; Goran, D.; Guyon, J.; Yuan, H.; Morawiec, A. Orientation Mapping by Transmission-SEM with an on-Axis Detector. Ultramicroscopy 2016, 161, 17 - 22.<br/>

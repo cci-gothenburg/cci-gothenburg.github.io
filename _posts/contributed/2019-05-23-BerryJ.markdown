@@ -10,9 +10,12 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Jo Berry**_<br/>
-Address<br/>
+_**Jo Berry**, Jo Berry, Julia Fernandez – Rodriguez,  Johan Engblom, Marica B. Ericson_<br/>
 
 ## Abstract
 
-TExt. <br/>
+I participated in a weeklong imaging and analysis project at The Centre for Cellular Imaging (CCI), Gothenburg University in collaboration with the Research Centre for Bio-interfaces, Malmo University and their multidisciplinary project: “Dermal drug delivery—How to Increase Bioavailability in Viable Skin.” I had an opportunity to observe and participate in an in-depth multidisciplinary project on skin research. I was trained to work alongside this scientific research group to apply optical microscopy techniques within this experimental skin research project and saw how scientists investigate the release of drugs in the skin and how they collect data to demonstrate their hypothesis. <br/>
+
+Multiphoton microscopy was used to image “deep” samples of the skin and to test different creams. Pig skin samples were used as it has similar properties to human skin. The main benefit of this method of imaging is that by using two exciting photons,† pulsed at the same time, less energy is used and deeper samples can be imaged. What I found fascinating to view was how the ultrafast laser system images data by concentrating more visible light on one point of a sample as an instant pulse measured in femtoseconds‡ and the fact that the two photon absorption spectra excites two fluorophores equally well with less power.<br/>
+
+Scientific data is filled with potentiality and as such being expressed through by both science and by art opens up questions that do not address what things are but what they can be under other conditions.  I am seeking to open up alternative opportunities for utilising scientific data through the agency of art. I am interested in finding out what scientists think about an artist working alongside them in their laboratories.  And what they think about my application of experimental arts activity to scientific data, does it bring new opportunities and scope for their scientific research?<br/>

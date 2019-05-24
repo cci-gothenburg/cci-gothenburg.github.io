@@ -1,5 +1,5 @@
 ---
-title: "BergnerA | Title"
+title: "Bergner, A. | Synchrotron Beamline Capabilities for X-Ray Microanalysis (XAS, µXRF, and Nano-XRM) in the Laboratory"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,17 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_Jeff Gelb<sup>1</sup>, Sylvia Lewis<sup>1</sup>, SH Lau<sup>1</sup>, Wenbing Yun<sup>2</sup>, **Andreas Bergner**<sup>1</sup>_<br/>
+1 LOT-QuantumDesign.<br/>
+2 Sigray, Inc., Concord, CA, USA.<br/>
+
 
 ## Abstract
 
-Text.<br/>
+Development in synchrotron x-ray techniques and component technology has led to the emergence of x-ray microanalysis becoming increasingly central to advanced research. This has led to oversubscription and immense competition in acquiring beamtime. In spite of the growth of these techniques at synchrotron facilities, efforts toward developing laboratory X-ray capabilities have moved relatively slowly. This is due, in part, to bottlenecks in regards to both X-ray optics and laboratory X-ray sources. Conventional X-ray source designs rely on target materials deposited on a metal substrate, and are fundamentally limited in flux by the power loadings afforded by the metals.<br/>
+
+In our work, we have developed a patented laboratory microfocus X-ray source using a diamond substrate, with small metal targets embedded in the diamond. The higher thermal conductivity of diamond allows for ~5x higher power loadings than conventional designs, which corresponds to significantly higher X-ray flux output. A single substrate may be outfitted with a variety of target materials, enabling a user to adjust the X-ray photon energy and radiation spectrum for specific characterization tasks with push-button software capabilities. Further to this, we have fabricated a variety of X-ray optics, including double-paraboloidal capillary condenser lenses, which produce achromatic profiles and preserve the high brightness of the x-ray source.<br/>
+
+The result of the novel system components enables small focal spots at the sample with ultrahigh x-ray flux, and also uniquely enables energy tunability, which is conventionally possible at the synchrotron but is lacking for laboratory-based techniques.<br/>
+
+Using the source and optics, we have developed several new integrated laboratory systems, including X-ray absorption spectroscopy (XAS), micro X-ray fluorescence (µXRF), and nano X-ray microscopy (nano-XRM) instrumentation. Due to the high brightness and energy tunability of the microfocus source, the XAS system can reach sub-eV energy resolution for chemical state analysis with scan times in minutes to hours. The µXRF system can achieve elemental analysis with sub-ppm (sub-femtogram) sensitivity by capitalizing on the tunable source, and the nano-XRM can produce 3D volumetric representations of material microstructures with spatial resolutions down to 40 nm. In this presentation, we will review the techniques used to assemble these laboratory X-ray instruments and discuss the advancements that have led to their development.<br/>

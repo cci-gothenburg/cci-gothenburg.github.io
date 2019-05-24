@@ -1,5 +1,5 @@
 ---
-title: "Ahmad, N. | Title"
+title: "Ahmad, N. | Liquid Phase In situ Study of Ag@Au Bimetallic Nanostructures"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,18 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Nabeel Ahmad**, Marta Bon, Daniele Passerone, Rolf Erni*_
+Empa, Uberlandstrasse 129, CH-8600, Dubendorf, Switzerland.<br/>
+
 
 ## Abstract
 
-Text.<br/>
+Liquid cell transmission electron microscopy (LCTEM) has evolved a great deal in recent past enabling researchers to study dynamic phenomenon in materials sciences, life sciences and electrochemistry. In particular, the technique has proved to be instrumental in real-time obser-vations of self-assembly processes, nucleation events as well as shape transformations in na-nomaterials. In this context Ag@Au bimetallic nanoparticles were radiolytically synthesized in liquid cell. These core-shell nanostructures offer desirable plasmonic properties leading to their use in applications such as surface enhanced Raman spectroscopy (SERS) and biosensing.[1]<br/>
+
+Liquid cell STEM experiments were carried out on a FEI Titan Themis 80-300 probe Cs-corrected microscope operated at 300 kV. A commercial liquid cell holder Poseidon 500 series by Protochips inc. was utilized for all liquid cell experimental work. A 2.5 µl droplet of the solution containing 1 mg/ml of Ag nanoparticle templates was deposited on a small e-chip containing 150 nm Au spacers. This suspension was sandwiched between two silicon based e-chips with SiN electron-transparent windows and the sealed assembly was inserted in micro-scope.<br/>
+
+Electron dose rates ranging from 2.8 electrons/Å2s to 20.1 electrons/Å2s were used to deposit Au on the surface of Ag by flowing a precursor solution of 0.5µM HAuCl4 in the cell. As the beam-induced growth under such dose regimes is relatively fast and uncontrollable in nature, therefore a combination of capping and complexing agents (DMA + KI) was used to slow-down growth kinetics in order to observe mechanistic insights into the overgrowth process. A theoretical approach based on classical simulations complemented these experimental findings at a molecular level. This two-pronged approach allowed us to disentangle several complex growth parameters in a systematic manner with special emphasis on understanding shape evo-lution and chemical ordering in these core-shell nanostructures. Ab-initio DFT calculations were additionally performed to elucidate the role of additives on surface chemistry of Ag templates and their subsequent role on Au deposition. Overall detailed mechanistic insights regarding nanoalloy growth are revealed from the perspective of LCTEM experiments and theoretical modelling.[2]<br/>
+
+## References:
+[1] Yang et al. J. Am. Chem. Soc. 2014, 136 (23), 8153–8156.<br/>
+[2] Bon et al. arXiv 2019.<br/>

@@ -1,5 +1,5 @@
 ---
-title: "Phifer, Daniel | Title"
+title: "Phifer, Daniel | Automatic coloring during in-situ imaging"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,13 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Daniel Phifer**_.<br/>
+Thermo Fisher Scientific.<br/>
 
 ## Abstract
 
-Text.<br/>
+SEMs have various detectors which are sensitive to composition and structure of materials. Commonly we use only one technique, like secondary electron (SE) or back scatter electron (BSE) detection per image to capture data at a time. Backscatter imaging, which is more sensitive to composition yields brighter pixels when the atomic number is higher in one area over another, but secondary electron detector images do not exhibit this contrast mechanism. Separately, with EDS software it is possible to overlay false color information to more compositionally describe differences in our samples. EDS is often used to overlay spectral intensity per pixel on a greyscale image from secondary electron or backscatter electron detector signal in the form of an arbitrary color set by the user or system software. To date most SEM and EDS systems are separated and EDS data is only captured when an area of interest is defined by the system operator. EDS is very useful as it can tell us what the composition elements are for many samples on an as needed basis.<br/>
+
+When scanning a sample surface with SE alone, it is difficult to know if there is a compositional difference. For prescreening elemental differences, BSE imaging is preferred as different composition and crystallographic orientation influence BSE intensity. Once an area is identified, many techniques such as EDS, EBSD, CL and others can provide SEM images with meaningful color, but they are usually not integrated with imaging and navigation, they often require separate software which makes them difficult to use, and inherently slow.<br/>
+
+Here, we present in-situ live color SEM imaging in a commercially available SEM platform. Combining the signals from secondary electrons, backscatter electrons and x-rays in one integrated scanning system, images are automatically colored live based on image features and elemental composition. In either a SE or BSE image the EDS signals are captured in the background and when statistically relevant information is sufficient, pixels are tinted so the image comes alive with color. The direct display of color images provides an intuitive way of working with a specimen and helps highlight compositional differences even when working with SE signals.  With BSE signals in-situ color can be useful as BSE is sensitive to composition and grain structure. Therefore, grains of the same material but different orientation will appear in the same color but grains or precipitates with different composition will stand out. Live in-situ color imaging is a completely new way of collecting EDS information in the SEM as it is always on; utilizing the signals that were there but not being captured. Areas that are different will automatically be in meaningful color, enhancing the ability to find elusive differences in samples.<br/>

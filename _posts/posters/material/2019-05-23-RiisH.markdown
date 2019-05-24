@@ -1,5 +1,5 @@
 ---
-title: "Riis, H. | Title"
+title: "Riis, H. | Metallization of ZnSb for thermoelectric applications"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,9 +12,15 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
+_**Henrik Riis**, Xin Song , Terje Finstad, Øystein Prytz_.<br/>
+Department of Physics, University of Oslo.<br/>
 
 ## Abstract
 
-Text.<br/>
+Thermoelectric materials can convert a temperature gradient into an electrical potential difference. Heat can be converted into electrical energy by integrating thermoelectric materials into a module. ZnSb, a well-known thermoelectric material, has recently experienced a renewed interest that has led to improved electrical and thermal properties [1]. In this study, we investigate possible contact materials for ZnSb. For ZnSb, which often is operated up to 300 °C due to its peak performance at elevated temperatures, a stable contact is needed both at constant temperatures and to endure thermal cycling. A stable contact must be adherent, have minimal interdiffusion with the thermoelectric material, and match the thermal expansion coefficient.  The contact should also be ohmic. We investigate the adhesion and chemical stability of selected metal contacts.<br/>
+
+We prepared polished ZnSb substrates synthesized by the hot-pressing method and deposited selected transition metals, such as Cu, Al and Ti, by electron beam thermal evaporation and sputtering. Samples were heat-treated at different temperatures and different durations.  TEM samples were made by Focused Ion Beam milling. The interface between ZnSb and the deposited metals were studied by Scanning Transmission Electron Microscopy to examine the adhesion of the metal films. Energy-dispersive X-ray Spectroscopy and Electron Energy Loss Spectroscopy was used to study interdiffusion and the chemical stability of the contacts. STEM images showed a large difference in adhesion between different metals and ZnSb. Elemental mapping revealed an oxide layer at the interface dependent on the metal deposited.<br/>
+
+## References
+
+[1] X. Song, T.G.Finstad, Review of research on the thermoelectric material ZnSb, Chapter 6, pp. 117 - 145 Thermoelectrics for Power Generation - A Look at Trends in the Technology (ISBN 978-953-51-2846-5).<br/>
