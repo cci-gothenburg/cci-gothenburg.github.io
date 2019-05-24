@@ -5,14 +5,23 @@ date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
-category: projects
+- life sciences
+- Imaging across scales, Multimodal imaging
+category: abstracts
 author:
 #description: Markdown summary with different options
 ---
 
-_**Davide Zabeo**_<br/>
-Address<br/>
+_Davide Zabeo,<sup>1</sup> Jacob Croft,<sup>1</sup> John Heumann,<sup>2</sup> Cindi Schwartz,<sup>2</sup> Mandy Rettel,<sup>3</sup> Per Widlund,<sup>4</sup> Garry Morgan,<sup>2</sup> Mikhail Savitski,<sup>3</sup> Radhika Subramanian,<sup>5</sup> and Johanna Höög.<sup>1</sup>_.<br/>
+1 Department of Chemistry and Molecular Biology, University of Gothenburg, Gothenburg, Sweden.<br/>
+2 Department of Molecular, Cellular and Developmental Biology, University of Colorado, Boulder, CO, USA.<br/>
+3 Proteomics Core Facility, EMBL, Heidelberg, Germany.<br/>
+4 Department of Microbiology and Immunology, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.<br/>
+5 Department of Molecular Biology, MGH and Department of Genetics, Harvard Medical School, Boston, MA, USA.<br/>
 
 ## Abstract
 
-TExt. <br/>
+Cilia or flagella are important for cell motility and sensorial signalling in all eukaryotes. In humans, anomalies in flagellar structure or function lead to disorders known as ciliopathies, which cause infertility, chronic respiratory infections and developmental defects. The flagellar ultrastructure is considered to be conserved among eukaryotes, with a symmetrical microtubule arrangement of 9 doublet microtubules around 2 singlets in motile flagella. This arrangement is lost towards the distal tip, where only one of the microtubules in each doublet extends as a singlet while the other terminates. Knowledge derived from model organisms like Chlamydomonas reinhardtii or Trypanosoma brucei is commonly extended to human flagella as well. However, several reports show significant differences in flagellar ultrastructure between species. For example, doublet microtubules extend all the way to the tip in trypanosomes. Therefore, it is unclear how similar human flagella and model systems are.<br/>
+Here, we present the first 3D reconstruction of intact human flagella, performed on plunge-frozen spermatozoa. Cryo-electron tomographic analysis of the flagellar tip revealed axonemal doublet microtubules splitting into two complete singlets, a different microtubule arrangement from model organisms. In addition, a novel extensive structure named TAILS (Tail Axoneme Intra-Lumenal Spiral) was discovered inside the microtubule lumen.<br/>
+Our present and future efforts focus on identifying TAILS with a multipronged approach, which includes (1) investigation of sperm samples from other sequenced organisms, (2) proteomics of the sperm tail tip, (3) cryoEM single particle analysis of TAILS in splayed sperm tips and (4) TIRF microscopy of microtubule dynamics in presence of TAILS candidate proteins. Once TAILS’s identity is confirmed, its function may be assessed by analyzing spermatozoa swimming in deletion mutants, created for example in zebrafish.<br/>
+Studying human spermatozoa directly with cryo-electron tomography allowed us to discover new microtubule arrangements and an extensive new structure at the flagellum tip, both of which do not exist in common model organisms. The ultrastructure of human flagella was analyzed in its native state, with a complete 3D view of all the protein complexes at the tail tip, revealing the power of this imaging technique and the importance of studying human flagella directly.<br/>

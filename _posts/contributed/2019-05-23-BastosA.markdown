@@ -1,14 +1,13 @@
 ---
-title: "Bastos S. Fanta A.  | Adding a new imaging capability to an on-axis TKD detector"
+title: "Bastos S. Fanta, A.| Adding a new imaging capability to an on-axis TKD detector"
 layout: post
-date: 2019-05-23 07:56
-image:
+date: 2019-05-23 02:00
 headerImage: false
 tag:
-- contributed talk
+- contributed
 - material sciences
 - advanced imaging and diffraction
-category: abstracts
+category: projects
 author:
 #description: Markdown summary with different options
 ---
