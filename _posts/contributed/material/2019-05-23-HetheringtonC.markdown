@@ -5,14 +5,15 @@ date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
+- material sciences
 category: projects
 author:
 #description: Markdown summary with different options
 ---
 
-_**Crispin Hetherington**<sup>1</sup>, Daniel Jacobsson <sup>1</sup>, Axel R. Persson <sup>1</sup>, Robin Sjökvist <sup>1</sup>, Carina B. Maliakkal <sup>2</sup>, Marcus Tornberg <sup>2</sup>, Martin Ek Rosén <sup>1</sup>, L. Reine Wallenberg <sup>1</sup>, Kimberly A. Dick <sup>1,2</sup>_<br/>
-1 CAS, Lund University, 22100, Lund, Sweden <br/>   
-2 Division of Solid State Physics, Lund University, 22100, Lund, Sweden <br/>
+_**Crispin Hetherington**<sup>1</sup>, Daniel Jacobsson <sup>1</sup>, Axel R. Persson <sup>1</sup>, Robin Sjökvist <sup>1</sup>, Carina B. Maliakkal <sup>2</sup>, Marcus Tornberg <sup>2</sup>, Martin Ek Rosén <sup>1</sup>, L. Reine Wallenberg <sup>1</sup>, Kimberly A. Dick <sup>1,2</sup>_.<br/>
+1 CAS, Lund University, 22100, Lund, Sweden.<br/>
+2 Division of Solid State Physics, Lund University, 22100, Lund, Sweden.<br/>
 
 ## Abstract
 

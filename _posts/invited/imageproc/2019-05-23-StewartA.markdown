@@ -6,6 +6,7 @@ image: https://media.scandem2019.se/2018/12/Andy-Stewart.jpg
 headerImage: true
 tag:
 - keynote
+- image processing/analysis
 - machine learning
 - AI
 category: abstracts

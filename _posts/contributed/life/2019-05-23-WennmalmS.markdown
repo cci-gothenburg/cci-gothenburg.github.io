@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Stefan Wennmalm**<sup>1</sup>, Jerker Widengren<sup>1</sup>, Jan Bergstrand<sup>1</sup>, Daniel Rönnlund<sup>1</sup>, Volodymyr Chmyrov<sup>1</sup>, Horst Vogel<sup>2</sup>, Romain Wyss<sup>2</sup>, Tor Sandén<sup>2</sup>_
+_**Stefan Wennmalm**<sup>1</sup>, Jerker Widengren<sup>1</sup>, Jan Bergstrand<sup>1</sup>, Daniel Rönnlund<sup>1</sup>, Volodymyr Chmyrov<sup>1</sup>, Horst Vogel<sup>2</sup>, Romain Wyss<sup>2</sup>, Tor Sandén<sup>2</sup>_.<br/>
 1 Royal Institute of Technology - KTH, Stockholm.<br/>
 2 EPFL, Lausanne.<br/>
 

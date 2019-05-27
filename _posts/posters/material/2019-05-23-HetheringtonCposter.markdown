@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**C. J. D. Hetherington**<sup>1</sup>, M. Tchaplyguine<sup>2</sup>,  O. Björneholm<sup>3</sup>,  L. R. Wallenberg <sup>1</sup>_
+_**C. J. D. Hetherington**<sup>1</sup>, M. Tchaplyguine<sup>2</sup>,  O. Björneholm<sup>3</sup>,  L. R. Wallenberg <sup>1</sup>_.<br/>
 1 nCHREM, Centre  for Analysis and Synthesis, Lund University, SE-22100, Lund, Sweden.<br/>
 2 MAX-lab,  Lund University, 22100 Lund, Sweden.<br/>
 3 Department of Physics and Astronomy, Uppsala University, 75120 Uppsala, Sweden.<br/>

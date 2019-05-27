@@ -6,6 +6,7 @@ image: https://media.scandem2019.se/2019/05/Julia-Fern%C3%A1ndez-Rodr%C3%ADguez.
 headerImage: true
 tag:
 - contributed
+- science communication
 category: projects
 author:
 #description: Markdown summary with different options

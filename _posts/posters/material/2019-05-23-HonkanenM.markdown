@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Mari Honkanen**<sup>1</sup>, Markus Nikka<sup>2</sup>, Miika Sorvali<sup>2</sup>, Jarkko J. Saarinen<sup>3</sup>, Jyrki M. Mäkelä<sup>2</sup>, Minnamari Vippola<sup>1</sup>_
+_**Mari Honkanen**<sup>1</sup>, Markus Nikka<sup>2</sup>, Miika Sorvali<sup>2</sup>, Jarkko J. Saarinen<sup>3</sup>, Jyrki M. Mäkelä<sup>2</sup>, Minnamari Vippola<sup>1</sup>_.<br/>
 1 Tampere Microscopy Center, Tampere University, Tampere, Finland.<br/>
 2 Aerosol Physics Laboratory, Tampere University, Tampere, Finland.<br/>
 3 Department of Chemistry, University of Eastern Finland, Joensuu, Finland.<br/>

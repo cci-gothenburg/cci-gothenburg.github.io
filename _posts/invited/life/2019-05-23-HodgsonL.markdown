@@ -6,6 +6,7 @@ image: https://media.scandem2019.se/2019/05/Lorna-Hodgson.jpg
 headerImage: true
 tag:
 - invited
+- life sciences
 category: projects
 author:
 #description: Markdown summary with different options

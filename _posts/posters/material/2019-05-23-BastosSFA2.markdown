@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Bastos, S. Fanta A.**, and Fuller, A._
+_**Bastos, S. Fanta A.**, and Fuller, A._.<br/>
 1 DTU-Nanolab, Kg. Lyngby, Denmark.<br/>
 
 

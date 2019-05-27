@@ -6,6 +6,7 @@ headerImage: false
 tag:
 - contributed
 - poster
+- life sciences
 category: projects
 author:
 #description: Markdown summary with different options

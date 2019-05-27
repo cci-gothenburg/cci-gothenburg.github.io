@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Nabeel Ahmad**, Marta Bon, Daniele Passerone, Rolf Erni*_
+_**Nabeel Ahmad**, Marta Bon, Daniele Passerone, Rolf Erni*_.<br/>
 Empa, Uberlandstrasse 129, CH-8600, Dubendorf, Switzerland.<br/>
 
 

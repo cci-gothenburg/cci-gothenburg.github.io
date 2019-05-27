@@ -6,6 +6,7 @@ image: https://media.scandem2019.se/2018/10/PeijunZhang.jpg
 headerImage: true
 tag:
 - keynote
+- life sciences
 
 category: abstracts
 author:

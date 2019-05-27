@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Shima Kadkhodazadeh**<sup>1</sup>, Sara Nilsson<sup>2</sup>, Christoph Langhammer<sup>2</sup>, Jakob B. Wagner<sup>1</sup>_
+_**Shima Kadkhodazadeh**<sup>1</sup>, Sara Nilsson<sup>2</sup>, Christoph Langhammer<sup>2</sup>, Jakob B. Wagner<sup>1</sup>_.<br/>
 1 DTU Nanolab, Technical University of Denmark, 2800 Kgs. Lyngby, Denmark.<br/>
 2 Department of Physics, Chalmers University of Technology, 412 96 Göteborg, Sweden.<br/>
 

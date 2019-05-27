@@ -6,6 +6,7 @@ image: https://media.scandem2019.se/2018/10/PeterHorvath.jpg
 headerImage: true
 tag:
 - invited
+- image processing/analysis
 category: projects
 author:
 #description: Markdown summary with different options

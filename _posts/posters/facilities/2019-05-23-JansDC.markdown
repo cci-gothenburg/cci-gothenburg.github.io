@@ -6,6 +6,7 @@ image:
 headerImage: false
 tag:
 - poster
+- core facilities
 - life sciences
 category: abstracts
 author:
