@@ -16,8 +16,6 @@ _**Christian Schwalb**<sup>1</sup>, Stefan Hummel<sup>1</sup>, Pinar Frank<sup>1
 1 GETec Microscopy GmbH, Vienna.<br/>
 2 FELMI, Graz.<br/>
 3 EPFL, Lausanne.<br/>
-4 (FELMI, Graz).<br/>
-
 
 ## Abstract
 

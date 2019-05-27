@@ -12,9 +12,6 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
-
 _**Yii-Lih Lin**<sup>1</sup>, Sriram KK<sup>1</sup>, Tsegaye Sewunet<sup>2,3</sup>, Shoeib Nematzadeh,<sup>3</sup> Christian G. Giske<sup>3,4</sup>, Fredrik Westerlund<sup>1</sup>_.<br/>
 1 Department of Biology and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden.<br/>
 2 School of Laboratory sciences, Department of Microbiology, Jimma University, Jimma, Ethiopia.<br/>

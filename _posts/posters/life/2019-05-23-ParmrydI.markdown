@@ -12,9 +12,6 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**NAME**_.<br/>
-1 Address.<br/>
-
 _**Ingela Parmryd**<sup>1</sup>, Jeremy Adler<sup>1</sup>, Ida-Maria Sintorn<sup>2</sup>, Robin Strand<sup>2</sup>_
 1 Institute of Biomedicine, The Sahlgrenska Academy, University of Gothenburg.<br/>
 2 Department of Information Technology, Uppsala University.<br/>

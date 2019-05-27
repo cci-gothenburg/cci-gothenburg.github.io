@@ -2,7 +2,8 @@
 title: "Berry, J. | Generating new methods and scope for communicating scientific research where reprocessing Advanced Imaging data is used as an essential part of a creative protocol"
 layout: post
 date: 2019-05-23 02:00
-headerImage: false
+image: https://media.scandem2019.se/2019/05/Julia-Fern%C3%A1ndez-Rodr%C3%ADguez.jpg
+headerImage: true
 tag:
 - contributed
 category: projects
@@ -10,7 +11,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Jo Berry**, Jo Berry, Julia Fernandez – Rodriguez,  Johan Engblom, Marica B. Ericson_<br/>
+_**Jo Berry**, Julia Fernandez – Rodriguez,  Johan Engblom, Marica B. Ericson_<br/>
 
 ## Abstract
 
