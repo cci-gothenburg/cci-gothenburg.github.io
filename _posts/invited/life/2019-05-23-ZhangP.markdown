@@ -7,7 +7,6 @@ headerImage: true
 tag:
 - keynote
 - life sciences
-
 category: abstracts
 author:
 #description: Markdown summary with different options

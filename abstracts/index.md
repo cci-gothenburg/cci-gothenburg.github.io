@@ -122,9 +122,9 @@ L11    | **Holzenburg,<br/>Andreas**           | <br/>[Approaching the quantum r
 L12    | **Keuenhof,<br/>Katharina**           | <br/>[Quantifying Cellular Responses to Heat-Shock](/KeuenhofK)<br/><br/>
 L13    | **Koner,<br/>Apurba&nbsp;L.**         | <br/>[Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy](/KonerAL)<br/><br/>
 L14    | **Lin,<br/>Yii-Lih**                  | <br/>[Multiplexed optical DNA mapping to identify plasmids and their resistance genes](/LinYL)<br/><br/>
-L15    | **Olsén,<br/>Erik**                   | <br/>[Sub-micron particle tracking and cellular dynamics investigated using combined digital holographic and fluorescent imaging](/OlsenE)<br/><br/>
-L16    | **Midtvedt,<br/>Daniel**              | <br/>[Digital Holographic Microscopy for real-time quantitative monitoring of stress at the cellular level](/MidtvedtD)<br/><br/>
-L17    | **Neděla,<br/>Vilém**                 | <br/>[The Low Temperature Method for ESEM – a New Method for in vivo study of fresh diatom assemblages](/NedelaV)<br/><br/>
+L15    | **Midtvedt,<br/>Daniel**              | <br/>[Digital Holographic Microscopy for real-time quantitative monitoring of stress at the cellular level](/MidtvedtD)<br/><br/>
+L16    | **Neděla,<br/>Vilém**                 | <br/>[The Low Temperature Method for ESEM – a New Method for in vivo study of fresh diatom assemblages](/NedelaV)<br/><br/>
+L17    | **Olsén,<br/>Erik**                   | <br/>[Sub-micron particle tracking and cellular dynamics investigated using combined digital holographic and fluorescent imaging](/OlsenE)<br/><br/>
 L18    | **Parmryd,<br/>Ingela**               | <br/>[Membrane topography invalidates membrane models](/ParmrydI)<br/><br/>
 L19    | **Prasad,<br/>Sonal**                 | <br/>[Role of radixin in modulation of outer hair cell stereocilia functions](/PrasadS)<br/><br/>
 L20    | **Wennmalm,<br/>Stefan**              | <br/>[Novel Variants of Fluorescence Correlation Spectroscopy](/WennmalmS)<br/><br/>
