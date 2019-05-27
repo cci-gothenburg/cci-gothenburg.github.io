@@ -1,0 +1,30 @@
+---
+title: "Ardalan, M | 3D Reconstruction and Stereological Quantification of Brain Structure in Experimental Perinatal Neuroscience"
+layout: post
+date: 2019-05-23 08:03
+image:
+headerImage: false
+tag:
+- poster
+- life sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_**Maryam Ardalan**, Carina Mallard_.<br/>
+Department of Physiology, Institute of Neuroscience and Physiology, Sahlgrenska Academy, University of Gothenburg.<br/>
+
+## Abstract
+
+**Objectives:** The central nervous system (CNS) is a highly heterogeneous organ with respect to structure, function and plasticity during normal development as well as under stressful conditions. The perinatal period is a vulnerable time in life and both preclinical and clinical evidences suggest that many neuropsychiatric and neurological diseases originate prenatally or in early postnatal life. Structural alterations of the brain that affect synaptic plasticity, neurogenesis, neuroglial and vascular plasticity during the perinatal period are considered to be of importance in a variety of neurological and neuropsychiatric disorders. Therefore, reliable methods for estimation of geometrical components in the brain during development are key components of integrative neurophysiological and neuropathological research. In addition, 3D quantification of brain structures can be used to indicate the potency of therapeutic agents. Moreover, in preclinical studies, it is needed to quantify the extent of these morphological changes in an accurate, precise, and biologically meaningful way.<br/>
+
+**Method and results obtained:** Design-based stereology, as a method of 3D quantification of 2D biological profiles, provides unbiased, precise and accurate quantification of brain structural features. Importantly, when used in conjunction with new imaging software, it allows convenient application of stereology for 3D reconstruction of cellular elements. For example, we have shown that estimation of brain capillary length (global special sampling) can give information about vascular resistance following subarachnoid haemorrhage [1,2]. Measurement of the size of brain cells such microglia and astrocytes (local volume estimators such as nucleator, spatial rotator) has given information about cellular shrinkage or cellular edema following perinatal inflammation [3]. Our recent studies have shown that quantification of dendrite geometry, which correspond to the structural integrity and complexity of the dendritic arbor of somatostatin interneurons following perinatal asphyxia indicated abnormal maturation pattern in cerebral cortex that might contribute to neurodevelopmental impairment in preterm infants [4].<br/>
+
+**Conclusion:** Application of stereology for estimation of geometrical components of the brain give us reliable and comprehensive information of brain structure during normal development, following adverse life events and can help to distinguish altered structure-function relationships following therapeutic interventions.<br/>
+
+## References
+[1] Maryam Anzabi, Hugo Angleys, Rasmus Aamand, Maryam Ardalan, Kim Mouridsen, Peter Mondrup Rasmussen, Jens Christian Hedemann Sørensen, Nikolaus Plesnila, Leif Østergaard, Nina Kerting Iversen. Capillary flow disturbances after experimental subarachnoid hemorrhage: a contributor to delayed cerebral ischemia? Microcirculation (New York, N.Y. : 1994), 15.11.2018, p. e12516.<br/>
+[2] Maryam Anzabi, Maryam Ardalan, Nina K. Iversen, Ali H. Rafati, Brian Hansen, Leif Østergaard. Hippocampal Atrophy Following Subarachnoid Hemorrhage Correlates with Disruption of Astrocyte Morphology and Capillary Coverage by AQP4. Front Cell Neurosci. 2018; 12: 19.<br/>
+[3] Maryam Ardalan, Tetyana Chumak, Ali H.Rafati, Audrey Maisson, Alexandra Quist, Joakim Ek, Carina Mallard. Effects of sex and neonatal inflammation on Gia-vasculature interface of hippocampus. Acta Neuropsychiatrica 2019;31: Supplement 1:13.<br/>
+[4] Maryam Ardalan, Pernilla Svedin, Ana A. Baburamani, Veena G. Supramaniam, Joakim Ek, Henrik Hagberg, Carina Mallard. Dysmaturation of somatostatin interneurons following umbilical cord occlusion in preterm fetal sheep. Front. Physiol. doi: 10.3389/fphys.2019.00563.<br/>

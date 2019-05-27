@@ -74,24 +74,31 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 Nº&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title
 :---- | :---------------------------| :---
-L01    | **Blomqvist,<br/>Charlotte Hamngren** | <br/>[Visualizing GFP by EM – a CLEM approach with nanobodies for GFP-specific-APEX2 DAB oxidation](/BlomqvistC)<br/><br/>
-L02    | **Colomb-Delsuc,<br/>Mathieu**        | <br/>[Advancing TEM Based Biomedical Nanoparticle Characterization: GMP Compliant TEM Workflow In a BSL2 Environment](/ColombDelsucM)<br/><br/>
-L03    | **Dolan,<br/>Brendan**                | <br/>[The use of live cell imaging to investigate compound mucus exocytosis from goblet cells](/DolanB)<br/><br/>
-L04    | **Droumpali,<br/>Ariadni**            | <br/>[Visualization and characterization of biofilm formation from marine bacteria by SEM technique](/DroumpaliA)<br/><br/>
-L05    | **Ermund,<br/>Anna**                  | <br/>[Visualizing invisible mucus](/ErmundA)<br/><br/>
-L06    | **Franzdóttir,<br/>Sigríður Rut**     | <br/>[Studying protein expression and intracellular dynamics of Pontin and Reptin in vivo](/FranzdottirSR)<br/><br/>
-L07    | **Grant,<br/>Stephen**                | <br/>[Refractive index mapping of algal cells using the transport of intensity equation](/GrantS)<br/><br/>
-L08    | **Heiligenstein,<br/>Xavier**         | <br/>[CryoCapCell: a global workflow for HPF-CLEM](/HeiligensteinX)<br/><br/>
-L09    | **Henriksson,<br/>Sara**              | <br/>[Focused ion beam methods to visualize Saccharomyces pombe](/HenrikssonS)<br/><br/>
-L10    | **Jans,<br/>Daniel&nbsp;C.**          | <br/>[ALM (Advanced Light Microscopy) – Super-resolution microscopy support for YOU](/JansDC)<br/><br/>
-L11    | **Keuenhof,<br/>Katharina**           | <br/>[Quantifying Cellular Responses to Heat-Shock](/KeuenhofK)<br/><br/>
-L12    | **Koner,<br/>Apurba&nbsp;L.**         | <br/>[Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy](/KonerAL)<br/><br/>
-L13    | **Lin,<br/>Yii-Lih**                  | <br/>[Multiplexed optical DNA mapping to identify plasmids and their resistance genes](/LinYL)<br/><br/>
-L14    | **Midtvedt,<br/>Daniel**              | <br/>[Digital Holographic Microscopy for real-time quantitative monitoring of stress at the cellular level](/MidtvedtD)<br/><br/>
-L15    | **Parmryd,<br/>Ingela**               | <br/>[Membrane topography invalidates membrane models](/ParmrydI)<br/><br/>
-L16    | **Peuckert,<br/>Christiane**          | <br/>[Intravital Microscopy at Stockholm University- A national infrastructure for advanced in vivo bioimaging](/PeuckertC)<br/><br/>
-L17    | **Prasad,<br/>Sonal**                 | <br/>[Role of radixin in modulation of outer hair cell stereocilia functions](/PrasadS)<br/><br/>
-L18    | **Wennmalm,<br/>Stefan**              | <br/>[Novel Variants of Fluorescence Correlation Spectroscopy](/WennmalmS)<br/><br/>
+L01    | **Ardalan,<br/>Maryam** | <br/>[3D Reconstruction and Stereological Quantification of Brain Structure in Experimental Perinatal Neuroscience](/ArdalanM)<br/><br/>
+L02    | **Blomqvist,<br/>Charlotte Hamngren** | <br/>[Visualizing GFP by EM – a CLEM approach with nanobodies for GFP-specific-APEX2 DAB oxidation](/BlomqvistC)<br/><br/>
+L03    | **Carroni,<br/>Marta** | <br/>[The Swedish Cryo-EM National Facility](/CarroniM)<br/><br/>
+L04    | **Colomb-Delsuc,<br/>Mathieu**        | <br/>[Advancing TEM Based Biomedical Nanoparticle Characterization: GMP Compliant TEM Workflow In a BSL2 Environment](/ColombDelsucM)<br/><br/>
+L05    | **Dolan,<br/>Brendan**                | <br/>[The use of live cell imaging to investigate compound mucus exocytosis from goblet cells](/DolanB)<br/><br/>
+L06    | **Droumpali,<br/>Ariadni**            | <br/>[Visualization and characterization of biofilm formation from marine bacteria by SEM technique](/DroumpaliA)<br/><br/>
+L07    | **Ermund,<br/>Anna**                  | <br/>[Visualizing invisible mucus](/ErmundA)<br/><br/>
+L08    | **Franzdóttir,<br/>Sigríður Rut**     | <br/>[Studying protein expression and intracellular dynamics of Pontin and Reptin in vivo](/FranzdottirSR)<br/><br/>
+L09    | **Grant,<br/>Stephen**                | <br/>[Refractive index mapping of algal cells using the transport of intensity equation](/GrantS)<br/><br/>
+L10    | **Heiligenstein,<br/>Xavier**         | <br/>[CryoCapCell: a global workflow for HPF-CLEM](/HeiligensteinX)<br/><br/>
+L11    | **Henriksson,<br/>Sara**              | <br/>[Focused ion beam methods to visualize Saccharomyces pombe](/HenrikssonS)<br/><br/>
+L12    | **Holzenburg,<br/>Andreas**           | <br/>[Approaching the quantum realms of photosynthetic electron transfer](/HolzenburgA)<br/><br/>
+L13    | **Jans,<br/>Daniel&nbsp;C.**          | <br/>[ALM (Advanced Light Microscopy) – Super-resolution microscopy support for YOU](/JansDC)<br/><br/>
+L14    | **Keuenhof,<br/>Katharina**           | <br/>[Quantifying Cellular Responses to Heat-Shock](/KeuenhofK)<br/><br/>
+L15    | **Koner,<br/>Apurba&nbsp;L.**         | <br/>[Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy](/KonerAL)<br/><br/>
+L16    | **Lin,<br/>Yii-Lih**                  | <br/>[Multiplexed optical DNA mapping to identify plasmids and their resistance genes](/LinYL)<br/><br/>
+L17    | **Olsén,<br/>Erik**                   | <br/>[Sub-micron particle tracking and cellular dynamics investigated using combined digital holographic and fluorescent imaging](/OlsenE)<br/><br/>
+L18    | **Midtvedt,<br/>Daniel**              | <br/>[Digital Holographic Microscopy for real-time quantitative monitoring of stress at the cellular level](/MidtvedtD)<br/><br/>
+L19    | **Neděla,<br/>Vilém**                 | <br/>[The Low Temperature Method for ESEM – a New Method for in vivo study of fresh diatom assemblages](/NedelaV)<br/><br/>
+L20    | **Parmryd,<br/>Ingela**               | <br/>[Membrane topography invalidates membrane models](/ParmrydI)<br/><br/>
+L21    | **Peuckert,<br/>Christiane**          | <br/>[Intravital Microscopy at Stockholm University- A national infrastructure for advanced in vivo bioimaging](/PeuckertC)<br/><br/>
+L22    | **Prasad,<br/>Sonal**                 | <br/>[Role of radixin in modulation of outer hair cell stereocilia functions](/PrasadS)<br/><br/>
+L23    | **Wennmalm,<br/>Stefan**              | <br/>[Novel Variants of Fluorescence Correlation Spectroscopy](/WennmalmS)<br/><br/>
+L24    | **Zabeo,<br/>Davide**                 | <br/>[The 3D architecture of human sperm flagellum tips revealed by cryo-electron tomography](/ZabeoD)<br/><br/>
+
 
 ---
 

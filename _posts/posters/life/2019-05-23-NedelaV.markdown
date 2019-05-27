@@ -1,0 +1,32 @@
+---
+title: "Neděla, V. | The Low Temperature Method for ESEM – a New Method for in vivo study of fresh diatom assemblages"
+layout: post
+date: 2019-05-23 08:04
+image:
+headerImage: false
+tag:
+- poster
+- life sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_E. Tihlaříková<sup>1</sup>, **V. Neděla**<sup>1</sup>, K. Imrichová<sup>1</sup>, M. Fránková<sup>2</sup>_.<br/>
+1 Environmental Electron Microscopy Group, Institute of Scientific Instruments of the CAS, Brno, Czech Republic.<br/>
+2 Laboratory of Paleoecology, Institute of Botany of the CAS, Brno, Czech Republic.<br/>
+
+## Abstract
+
+Diatoms are one of the most species-rich group of unicellular photosynthetic algae.  Diatom taxonomy is predominantly based on the morphology study of intricate patterns and designs of ornate silicified cell wall (a frustule) which are unique to each species. Traditional taxonomy uses conventional scanning electron microscopy (SEM) requiring aggressive treatment procedures, which make observation of fresh diatom material impossible.<br/>
+
+Environmental scanning electron microscopy (ESEM) brings advantages of observation of fresh aquatic material such as whole intact diatom cells (not only empty frustules), extracellular mucilaginous diatom secrets (e.g. pads, stalks, tubes) and whole diatom assemblages directly in situ together with other algal assemblages (e.g. cyanobacteria or green algae). However, observation of these organisms in their fresh wet state is not yet common [1]. The ESEM observation of the samples is usually affected by radiation damage that can be lowered by the use of special methods as the Low Temperature Method (LTM) for the ESEM [2].<br/>
+
+In this work, the LTM for ESEM was used to study the assemblage of fresh epiphytic diatoms on a stem epidermis of common reed (Phragmites australis (Cav.) Steud.). Moreover, new self-developed hydration system allowing advanced control of thermodynamic conditions for better application of the LTM in ESEM was tested.<br/>
+
+We show great potential of the LTM for high-resolution observation of fresh aquatic material under conditions of reduced gas pressure and low relative humidity in ESEM. Furthermore, the new method enables observation of susceptible structures such as mucilaginous stalks, which are destroyed during preparation for SEM [3].<br/>
+
+## References
+[1] J John et al, Diatom Research 7(2) (1992), p. 403.<br/>
+[2] V Neděla et al, Microscopy Research and Technique 78 (2015), p. 13.<br/>
+[3] The project was supported by the Grant Agency of the Czech Republic GA 19-03909S, the Ministry of Education, Youth and Sports LD 14045, the Institute of Botany CAS RVO 67985939 and by the Technology Agency of Czech Republic TAČR TN01000008.<br/>
