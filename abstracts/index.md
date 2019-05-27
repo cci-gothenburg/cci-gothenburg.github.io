@@ -7,6 +7,12 @@ title: Abstracts
 
 ---
 
+## Index
+- [Plenary speakers](#plenary-speakers)
+- [Invited speakers](#invited-speakers)
+- [Contributed talks](#contributed-talks)
+- [Posters Life sciences](#posters-life-sciences)
+- [Posters Material sciences](#posters-material-sciences)
 
 ### Plenary speakers
 
@@ -17,6 +23,10 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Hell,<br/>Stefan**            | <br/>[MINFLUX Nanoscopy: Super-resolution post Nobel](/HellS)<br/><br/>
 **Helmstaedter,<br/>Moritz**    | <br/>[3D EM for Connectomics](/HelmstaedterM)<br/><br/>
 **van&nbsp;Aken,<br/>Peter&nbsp;A.**      | <br/>[Far-field radiation of three-dimensional plasmonic gold tapers and of dynamic toroidal moments](/vanAkenPA)<br/><br/>
+
+---
+
+[Back to index](#index)
 
 ---
 
@@ -44,6 +54,10 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 ---
 
+[Back to index](#index)
+
+---
+
 ### Contributed talks
 
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Title
@@ -67,6 +81,9 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Wennmalm,<br/>Stefan**        | <br/>[Novel Variants of Fluorescence Correlation Spectroscopy](/WennmalmS)<br/><br/>
 **Zabeo,<br/>Davide**           | <br/>[The 3D architecture of human sperm flagellum tips revealed by cryo-electron tomography](/ZabeoD)<br/><br/>
 
+---
+
+[Back to index](#index)
 
 ---
 
@@ -99,6 +116,9 @@ L22    | **Prasad,<br/>Sonal**                 | <br/>[Role of radixin in modula
 L23    | **Wennmalm,<br/>Stefan**              | <br/>[Novel Variants of Fluorescence Correlation Spectroscopy](/WennmalmS)<br/><br/>
 L24    | **Zabeo,<br/>Davide**                 | <br/>[The 3D architecture of human sperm flagellum tips revealed by cryo-electron tomography](/ZabeoD)<br/><br/>
 
+---
+
+[Back to index](#index)
 
 ---
 
@@ -108,20 +128,30 @@ Nº&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 :---- | :---------------------------| :---
 M01    | **Aarholt,<br/>Thomas**         | <br/>[The impact of local relaxation on defect complex scanning transmission electron microsopy contrast](/AarholtT)<br/><br/>
 M02    | **Ahmad,<br/>Nabeel**           | <br/>[Liquid Phase In situ Study of Ag@Au Bimetallic Nanostructures](/AhmadN)<br/><br/>
-M03    | **Bastos&nbsp;S.&nbsp;Fanta,<br/>Alice**  | <br/>[The perspectives of filtering the saturated signal for on-axis TKD](/BastosSFA2)<br/><br/>
-M04    | **Bazioti,<br/>Calliope**       | <br/>[STEM-EELS investigation of defect formation and thermal evolution in ZnO](/BaziotiC)<br/><br/>
-M05    | **Bergner,<br/>Andreas**        | <br/>[Synchrotron Beamline Capabilities for X-Ray Microanalysis (XAS, µXRF, and Nano-XRM) in the Laboratory](/BergnerA)<br/><br/>
-M06    | **Haug,<br/>Kristian**          | <br/>[Functionalization of transparent conductive ZnO](/HaugK)<br/><br/>
-M07    | **Heinig,<br/>Mario Frederik**  | <br/>[Nanoscale studies of ultrathin gold films with various adhesion materials: Ti, Cr, APTMS, MPTMS and APS](/HeinigMF)<br/><br/>
-M08    | **Hetherington,<br/>Crispin**   | <br/>[TEM and PES studies of tin-oxide nanoparticles in a beam and after deposition on a substrate](/HetheringtonC)<br/><br/>
-M09    | **Holmér,<br/>Jonatan**         | <br/>[TBA](/HolmerJ)<br/><br/>
-M10    | **Honkanen,<br/>Mari**          | <br/>[Electron microscopic studies of nanoparticle functionalized cellulose fibers ](/HonkanenM)<br/><br/>
-M11    | **Kadkhodazadeh,<br/>Shima**    | <br/>[Monitoring the dynamics of the Kirkendall effect in Cu nanoparticles ](/KadkhodazadehS)<br/><br/>
-M12    | **Nguyen,<br/>Phuong Dan**      | <br/>[Structural and optical properties of individual Zn2GeO4 particles embedded in ZnO](/NguyenPD)<br/><br/>
-M13    | **Nilsson,<br/>Sara**           | <br/>[A Correlative Optical and Electron Microscopy Method for Understanding the Oxidation Mechanism of Single Cu Nanoparticles](/NilssonS)<br/><br/>
-M14    | **Phifer,<br/>Daniel**          | <br/>[Automatic coloring during in-situ imaging](/PhiferD)<br/><br/>
-M15    | **Riis,<br/>Henrik**            | <br/>[Metallization of ZnSb for thermoelectric applications](/RiisH)<br/><br/>
-M16    | **Schwalb,<br/>Christian**      | <br/>[Correlative In-Situ Analysis of nanostructures by combination of AFM, SEM, and FIB](/SchwalbC)<br/><br/>
-M17    | **Sjökvist,<br/>Robin**         | <br/>[Au Particle Composition and State During in-situ InAs Nanowire Growth in an Environmental TEM](/SjokvistR)<br/><br/>
-M18    | **Thronsen,<br/>Elisabeth**     | <br/>[Studying precipitates in pre-deformed Al-Mg-Si-Cu alloys by atomic resolution STEM and scanning electron diffraction](/ThronsenE)<br/><br/>
-M19    | **Vippola,<br/>Minnamari**      | <br/>[Correlating in-situ nanoindentation, EDS and EBSD characterization results: Case study of flame cut wear-resistant steel plates](/VippolaM)<br/><br/>
+M03    | **Ambroz,<br/>Vitezslav**           | <br/>[Multi-Modal 3D Microstructure Analysis using New Generation Plasma FIB-SEM by TESCAN](/AmbrozV)<br/><br/>
+M04    | **Bastos&nbsp;S.&nbsp;Fanta,<br/>Alice**  | <br/>[The perspectives of filtering the saturated signal for on-axis TKD](/BastosSFA2)<br/><br/>
+M05    | **Bazioti,<br/>Calliope**       | <br/>[STEM-EELS investigation of defect formation and thermal evolution in ZnO](/BaziotiC)<br/><br/>
+M06    | **Bergner,<br/>Andreas**        | <br/>[Synchrotron Beamline Capabilities for X-Ray Microanalysis (XAS, µXRF, and Nano-XRM) in the Laboratory](/BergnerA)<br/><br/>
+M07    | **Fager,<br/>Cecilia**        | <br/>[FIB-SEM tomography on porous polymer coatings used for controlled drug release](/FagerC)<br/><br/>
+M08    | **Haug,<br/>Kristian**          | <br/>[Functionalization of transparent conductive ZnO](/HaugK)<br/><br/>
+M09    | **Heinig,<br/>Mario Frederik**  | <br/>[Nanoscale studies of ultrathin gold films with various adhesion materials: Ti, Cr, APTMS, MPTMS and APS](/HeinigMF)<br/><br/>
+M10    | **Hetherington,<br/>Crispin**   | <br/>[TEM and PES studies of tin-oxide nanoparticles in a beam and after deposition on a substrate](/HetheringtonC)<br/><br/>
+M11    | **Holmér,<br/>Jonatan**         | <br/>[TBA](/HolmerJ)<br/><br/>
+M12    | **Honkanen,<br/>Mari**          | <br/>[Electron microscopic studies of nanoparticle functionalized cellulose fibers ](/HonkanenM)<br/><br/>
+M13    | **Kadkhodazadeh,<br/>Shima**    | <br/>[Monitoring the dynamics of the Kirkendall effect in Cu nanoparticles ](/KadkhodazadehS)<br/><br/>
+M14    | **Nguyen,<br/>Phuong Dan**      | <br/>[Structural and optical properties of individual Zn2GeO4 particles embedded in ZnO](/NguyenPD)<br/><br/>
+M15    | **Mattsson,<br/>Karin**         | <br/>[Comprehensive characterization and particle quantification of environmental microplastics using novel correlative microscopy instrumentation and workflows](/MattssonK)<br/><br/>
+M16    | **Nilsson,<br/>Sara**           | <br/>[A Correlative Optical and Electron Microscopy Method for Understanding the Oxidation Mechanism of Single Cu Nanoparticles](/NilssonS)<br/><br/>
+M17    | **Persson,<br/>Axel&nbsp;R.**           | <br/>[Complex semiconducting nanowires studied by electron tomography](/PerssonAR)<br/><br/>
+M18    | **Phifer,<br/>Daniel**          | <br/>[Automatic coloring during in-situ imaging](/PhiferD)<br/><br/>
+M19    | **Riis,<br/>Henrik**            | <br/>[Metallization of ZnSb for thermoelectric applications](/RiisH)<br/><br/>
+M20    | **Schwalb,<br/>Christian**      | <br/>[Correlative In-Situ Analysis of nanostructures by combination of AFM, SEM, and FIB](/SchwalbC)<br/><br/>
+M21    | **Sjökvist,<br/>Robin**         | <br/>[Au Particle Composition and State During in-situ InAs Nanowire Growth in an Environmental TEM](/SjokvistR)<br/><br/>
+M22    | **Thronsen,<br/>Elisabeth**     | <br/>[Studying precipitates in pre-deformed Al-Mg-Si-Cu alloys by atomic resolution STEM and scanning electron diffraction](/ThronsenE)<br/><br/>
+M23    | **Vippola,<br/>Minnamari**      | <br/>[Correlating in-situ nanoindentation, EDS and EBSD characterization results: Case study of flame cut wear-resistant steel plates](/VippolaM)<br/><br/>
+
+---
+
+[Back to index](#index)
+
+---

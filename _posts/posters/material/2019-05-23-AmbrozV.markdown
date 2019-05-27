@@ -1,0 +1,24 @@
+---
+title: "Ambroz, V. | Multi-Modal 3D Microstructure Analysis using New Generation Plasma FIB-SEM by TESCAN"
+layout: post
+date: 2019-05-23 08:00
+image:
+headerImage: false
+tag:
+- poster
+- material sciences
+category: abstracts
+author:
+#description: Markdown summary with different options
+---
+
+_Hana Tesarova, **Vitezslav Ambroz**, Manuel Bornhoefft, Jiri Dluhos_.<br/>
+TESCAN ORSAY HOLDING<br/>
+
+## Abstract
+
+Achieving complete information about material’s microstructure and its relation to the mechanical or physical properties is a core of the materials research. Today, with the upcoming era of digital design optimization and modern technologies like additive manufacturing, the need for digital material description and microstructure and parameters prediction for digital optimization is rapidly growing. Since the new technologies bring also new technological challenges like high anisotropy or unknown local thermal history of the component, the traditional 2D metallographic techniques are no more providing enough information for complete material description and the whole materials research is deriving new directions based on the 3D microstructure description i.e. as it is in real components.<br/>
+
+The new generation of TESCAN Plasma FIB-SEMs from the S8000 family, brings not only better imaging and analytical resolution on any construction material, but also a larger scale for FIB cross sectioning and FIB-SEM tomography. The new generation control software comes with easy to use workflow-oriented guides even for complex tasks like FIB-SEM tomography.<br/>
+
+The new multi-modal FIB-SEM tomography module  allows acquisition of up to 8 imaging detector  signals simultaneously, possibility to acquire multi-scale datasets and simultaneous acquisition of microanalytical signal from  EDS and EBSD for achieving 3D information about the phase and crystal orientation.  Acquisition of 3D microanalytical data is done in static position with  sample moving during the acquisition for maximum precision of the analysis. Using latest technologies for ultra-fast microanalytical data acquisition, together with improved performance of the latest PFIB it enables a high speed  acquisition of large 3D multi-modal datasets.<br/>
