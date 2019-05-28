@@ -1,5 +1,5 @@
 ---
-title: "Christiansen, S. H. | Complex, three-dimensional nano-architectures in biology and engineered devices -
+title: "Complex, three-dimensional nano-architectures in biology and engineered devices -
 understanding and enhancing functionality through correlative microscopy"
 layout: post
 date: 2019-05-23 14:00

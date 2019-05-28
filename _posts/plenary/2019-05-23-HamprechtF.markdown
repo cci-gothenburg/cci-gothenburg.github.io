@@ -1,5 +1,5 @@
 ---
-title: "Hamprecht, F. | Learning to segment an image"
+title: "Learning to segment an image"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/11/FredHamprecht.jpg

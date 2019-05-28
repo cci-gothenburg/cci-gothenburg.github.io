@@ -1,13 +1,11 @@
 ---
-title: "Hell, S. | MINFLUX Nanoscopy: Super-resolution post Nobel"
+title: "MINFLUX Nanoscopy: Super-resolution post Nobel"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/10/StefanHell.jpg
 headerImage: true
 tag:
 - plenary
-- nanoscopy
-- super-resolution
 category: abstracts
 author:
 #description: Markdown summary with different options
