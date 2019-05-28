@@ -1,5 +1,5 @@
 ---
-title: "Stewart, A. | Machine learning, and Artificial Intelligence"
+title: "Machine learning, and Artificial Intelligence"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/12/Andy-Stewart.jpg
