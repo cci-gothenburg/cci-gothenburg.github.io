@@ -13,7 +13,7 @@ author:
 ---
 
 _Hana Tesarova, **Vitezslav Ambroz**, Manuel Bornhoefft, Jiri Dluhos_.<br/>
-TESCAN ORSAY HOLDING<br/>
+TESCAN ORSAY HOLDING.<br/>
 
 ## Abstract
 

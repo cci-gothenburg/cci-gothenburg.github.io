@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_Lisa Larsson Berglund<sup>1,2</sup>, **Katharina Keuenhof**<sup>1</sup>, Sandra Malmgren Hill<sup>3,4</sup>, Per Widlund<sup>2</sup>, Thomas Nyström<sup>2</sup>, Johanna Höög<sup>1</sup>_<br/>
+_Lisa Larsson Berglund<sup>1,2</sup>, **Katharina Keuenhof**<sup>1</sup>, Sandra Malmgren Hill<sup>3,4</sup>, Per Widlund<sup>2</sup>, Thomas Nyström<sup>2</sup>, Johanna Höög<sup>1</sup>_.<br/>
 1 Department of Chemistry and Molecular Biology, University of Gothenburg, Sweden.<br/>
 2 Department of Microbiology and Immunology, Institute of Biomedicine, The Sahlgrenska Academy at the University of Gothenburg, Sweden.<br/>
 3 Department of Psychiatry and Neurochemistry, Institute of Neuroscience and Physiology, The Sahlgrenska Academy at the University of Gothenburg, Gothenburg, Sweden.<br/>

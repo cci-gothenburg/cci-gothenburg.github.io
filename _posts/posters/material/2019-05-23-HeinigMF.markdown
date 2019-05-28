@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Mario Frederik Heinig**<sup>1</sup>, Johneph Sukham<sup>2</sup>, Radu Malureanu<sup>2</sup>, Matteo Todeschini<sup>1</sup>, Alice Bastos da Silva Fanta<sup>1</sup>, Jakob Birkedal Wagner<sup>1</sup>, Shima Kadkhodazadeh<sup>1</sup>_<br/>
+_**Mario Frederik Heinig**<sup>1</sup>, Johneph Sukham<sup>2</sup>, Radu Malureanu<sup>2</sup>, Matteo Todeschini<sup>1</sup>, Alice Bastos da Silva Fanta<sup>1</sup>, Jakob Birkedal Wagner<sup>1</sup>, Shima Kadkhodazadeh<sup>1</sup>_.<br/>
 1 DTU Nanolab, National Centre for Nano Fabrication and Characterization, Technical University of Denmark.<br/>
 2 Department of Photonics Engineering, Technical University of Denmark.<br/>
 

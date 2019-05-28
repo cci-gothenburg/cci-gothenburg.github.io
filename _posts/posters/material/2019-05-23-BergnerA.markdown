@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_Jeff Gelb<sup>1</sup>, Sylvia Lewis<sup>1</sup>, SH Lau<sup>1</sup>, Wenbing Yun<sup>2</sup>, **Andreas Bergner**<sup>1</sup>_<br/>
+_Jeff Gelb<sup>1</sup>, Sylvia Lewis<sup>1</sup>, SH Lau<sup>1</sup>, Wenbing Yun<sup>2</sup>, **Andreas Bergner**<sup>1</sup>_.<br/>
 1 LOT-QuantumDesign.<br/>
 2 Sigray, Inc., Concord, CA, USA.<br/>
 

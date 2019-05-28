@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Jonatan Holmér**<sup>1</sup>, Lunjie Zeng<sup>1</sup>, Thomas Kanne<sup>2</sup>, Peter Krogstrup<sup>2</sup>, Jesper Nygård<sup>2</sup>, Ludvig de Knoop<sup>1</sup>, Eva Olsson<sup>1</sup>._.<br/>
+_**Jonatan Holmér**<sup>1</sup>, Lunjie Zeng<sup>1</sup>, Thomas Kanne<sup>2</sup>, Peter Krogstrup<sup>2</sup>, Jesper Nygård<sup>2</sup>, Ludvig de Knoop<sup>1</sup>, Eva Olsson<sup>1</sup>_.<br/>
 1 Chalmers University of Technology, Department of Physics, Sweden.<br/>  
 2 University of Copenhagen, Niels Bohr Institute, Center for Quantum Devices and Station Q Copenhagen, Denmark.<br/>
 

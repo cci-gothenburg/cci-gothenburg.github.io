@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_**Kristian Haug**, Phoung Dan Nguyen, Ole Bjørn Karlsen, Tarjei Bondevik, Thomas Aarholt, Calliope Bazioti, Øystein Prytz_<br/>
+_**Kristian Haug**, Phoung Dan Nguyen, Ole Bjørn Karlsen, Tarjei Bondevik, Thomas Aarholt, Calliope Bazioti, Øystein Prytz_.<br/>
 Department of Physics, University of Oslo, Norway.<br/>
 
 ## Abstract
