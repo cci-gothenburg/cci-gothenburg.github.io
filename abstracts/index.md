@@ -150,7 +150,7 @@ M07    | **Fager,<br/>Cecilia**        | <br/>[FIB-SEM tomography on porous poly
 M08    | **Haug,<br/>Kristian**          | <br/>[Functionalization of transparent conductive ZnO](/HaugK)<br/><br/>
 M09    | **Heinig,<br/>Mario Frederik**  | <br/>[Nanoscale studies of ultrathin gold films with various adhesion materials: Ti, Cr, APTMS, MPTMS and APS](/HeinigMF)<br/><br/>
 M10    | **Hetherington,<br/>Crispin**   | <br/>[TEM and PES studies of tin-oxide nanoparticles in a beam and after deposition on a substrate](/HetheringtonCposter)<br/><br/>
-M11    | **Holmér,<br/>Jonatan**         | <br/>[TBA](/HolmerJ)<br/><br/>
+M11    | **Holmér,<br/>Jonatan**         | <br/>[In situ scanning tunneling microscope - scanning electron microscope characterization of photovoltaic properties of single GaAs nanowires](/HolmerJ)<br/><br/>
 M12    | **Honkanen,<br/>Mari**          | <br/>[Electron microscopic studies of nanoparticle functionalized cellulose fibers ](/HonkanenM)<br/><br/>
 M13    | **Kadkhodazadeh,<br/>Shima**    | <br/>[Monitoring the dynamics of the Kirkendall effect in Cu nanoparticles ](/KadkhodazadehS)<br/><br/>
 M14    | **Mattsson,<br/>Karin**         | <br/>[Comprehensive characterization and particle quantification of environmental microplastics using novel correlative microscopy instrumentation and workflows](/MattssonK)<br/><br/>
@@ -258,7 +258,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Hetherington,<br/>Crispin**   | <br/>[In situ growth of III-V nanowires in the Lund ETEM](/HetheringtonC)<br/><br/>
 **Hetherington,<br/>Crispin**   | <br/>[TEM and PES studies of tin-oxide nanoparticles in a beam and after deposition on a substrate](/HetheringtonCposter)<br/><br/>
 **Hodgson,<br/>Lorna**          | <br/>[CLEM meets synthetic biology](/HodgsonL)<br/><br/>
-**Holmér,<br/>Jonatan**         | <br/>[TBA](/HolmerJ)<br/><br/>
+**Holmér,<br/>Jonatan**         | <br/>[In situ scanning tunneling microscope - scanning electron microscope characterization of photovoltaic properties of single GaAs nanowires](/HolmerJ)<br/><br/>
 **Holzenburg,<br/>Andreas**           | <br/>[Approaching the quantum realms of photosynthetic electron transfer](/HolzenburgA)<br/><br/>
 **Honkanen,<br/>Mari**          | <br/>[Electron microscopic studies of nanoparticle functionalized cellulose fibers ](/HonkanenM)<br/><br/>
 **Horvath,<br/>Peter**           | <br/>[Life beyond the pixels: image analysis and deep learning methods for quantitative microscopy](/HorvathP)<br/><br/>

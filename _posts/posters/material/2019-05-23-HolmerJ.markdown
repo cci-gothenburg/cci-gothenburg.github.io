@@ -1,5 +1,5 @@
 ---
-title: "Holmér, J. | TBA"
+title: "Holmér, J. | In situ scanning tunneling microscope - scanning electron microscope characterization of photovoltaic properties of single GaAs nanowires"
 layout: post
 date: 2019-05-23 08:00
 image:
