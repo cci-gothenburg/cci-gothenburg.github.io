@@ -1,5 +1,5 @@
 ---
-title: "Heiligenstein, X. | CryoCapCell: a global workflow for HPF-CLEM"
+title: "CryoCapCell: a global workflow for HPF-CLEM"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
@@ -7,6 +7,7 @@ tag:
 - contributed
 - poster
 - life sciences
+- imaging across scales & multimodal imaging
 category: projects
 author:
 #description: Markdown summary with different options

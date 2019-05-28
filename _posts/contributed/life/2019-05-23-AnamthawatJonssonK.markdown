@@ -1,11 +1,13 @@
 ---
-title: "Anamthawat-Jonsson, K. | Diatom diversity in Lake Thingvallavatn, Iceland"
+title: "Diatom diversity in Lake Thingvallavatn, Iceland"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
 - life sciences
+- super-resolution microscopy
+- functional imaging
 category: projects
 author:
 #description: Markdown summary with different options

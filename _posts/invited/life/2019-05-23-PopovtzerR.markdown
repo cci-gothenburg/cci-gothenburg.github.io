@@ -1,12 +1,13 @@
 ---
-title: "Popovtzer, R. | Seeing is Believing: Tracking the Movement of Cells Within Our Body"
+title: "Seeing is Believing: Tracking the Movement of Cells Within Our Body"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/10/RachelaPopovtzer.jpg
 headerImage: true
 tag:
-- keynote
+- invited
 - life sciences
+- imaging across scales & multimodal imaging
 category: abstracts
 author:
 #description: Markdown summary with different options

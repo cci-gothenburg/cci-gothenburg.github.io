@@ -1,12 +1,13 @@
 ---
-title: "de Jonge, N. | Liquid-Phase Electron Microscopy of Cells and Nanomaterials in Liquid"
+title: "Liquid-Phase Electron Microscopy of Cells and Nanomaterials in Liquid"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/12/Niels-de-Jonge.jpg
 headerImage: true
 tag:
-- keynote
+- invited
 - material sciences
+- in situ microscopy
 category: abstracts
 author:
 #description: Markdown summary with different options

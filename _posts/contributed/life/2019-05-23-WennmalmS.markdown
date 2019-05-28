@@ -1,5 +1,5 @@
 ---
-title: "Wennmalm, S. | Novel Variants of Fluorescence Correlation Spectroscopy"
+title: "Novel Variants of Fluorescence Correlation Spectroscopy"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
@@ -7,6 +7,8 @@ tag:
 - contributed
 - poster
 - life sciences
+- super-resolution microscopy
+- functional imaging
 category: projects
 author:
 #description: Markdown summary with different options

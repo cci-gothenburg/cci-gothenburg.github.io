@@ -1,5 +1,5 @@
 ---
-title: "Wagner, J. B. | Dynamics of material surfaces and interfaces – the good, the bad and the electron beam"
+title: "Dynamics of material surfaces and interfaces – the good, the bad and the electron beam"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/11/JakobWagner.jpg
@@ -7,6 +7,7 @@ headerImage: true
 tag:
 - invited
 - material sciences
+- in situ microscopy
 category: projects
 author:
 #description: Markdown summary with different options

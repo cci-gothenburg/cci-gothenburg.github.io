@@ -1,5 +1,5 @@
 ---
-title: "Scheu, C. | Advanced Cs corrected STEM imaging coupled to 3D atom probe tomography"
+title: "Advanced Cs corrected STEM imaging coupled to 3D atom probe tomography"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2019/05/Christina-Scheu.jpg
@@ -7,6 +7,7 @@ headerImage: true
 tag:
 - invited
 - material sciences
+- advanced imaging and diffraction
 category: projects
 author:
 #description: Markdown summary with different options

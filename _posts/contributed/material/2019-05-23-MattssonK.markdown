@@ -1,11 +1,13 @@
 ---
-title: "Mattsson, K. | Comprehensive characterization and particle quantification of environmental microplastics using novel correlative microscopy instrumentation and workflows"
+title: "Comprehensive characterization and particle quantification of environmental microplastics using novel correlative microscopy instrumentation and workflows"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
 - material sciences
+- quantitative imaging
+- high spatial resolution spectroscopy
 category: projects
 author:
 #description: Markdown summary with different options

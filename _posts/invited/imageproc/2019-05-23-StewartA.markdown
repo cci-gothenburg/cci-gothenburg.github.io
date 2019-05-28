@@ -5,10 +5,8 @@ date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2018/12/Andy-Stewart.jpg
 headerImage: true
 tag:
-- keynote
+- invited
 - image processing/analysis
-- machine learning
-- AI
 category: abstracts
 author:
 #description: Markdown summary with different options

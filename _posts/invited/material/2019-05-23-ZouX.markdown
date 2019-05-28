@@ -1,5 +1,5 @@
 ---
-title: "Zou X. | Automated 3D electron diffraction techniques for high-throughput phase analysis and ab initio structure determination – from inorganics to proteins"
+title: "Automated 3D electron diffraction techniques for high-throughput phase analysis and ab initio structure determination – from inorganics to proteins"
 layout: post
 date: 2019-05-23 14:00
 image: https://media.scandem2019.se/2019/05/Xiaodong-Zou.jpg
@@ -7,6 +7,7 @@ headerImage: true
 tag:
 - invited
 - material sciences
+- advanced imaging and diffraction
 category: projects
 author:
 #description: Markdown summary with different options

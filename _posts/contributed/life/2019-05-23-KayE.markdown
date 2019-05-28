@@ -1,11 +1,12 @@
 ---
-title: "Kay, E. | Endosomal escape of an antisense oligonucleotide revealed by NanoSIMS and TEM"
+title: "Endosomal escape of an antisense oligonucleotide revealed by NanoSIMS and TEM"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
 - life sciences
+- imaging across scales & multimodal imaging
 category: projects
 author:
 #description: Markdown summary with different options

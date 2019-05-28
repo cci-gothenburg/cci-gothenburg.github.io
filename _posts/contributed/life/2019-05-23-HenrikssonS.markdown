@@ -1,5 +1,5 @@
 ---
-title: "Henriksson, S. | Focused ion beam methods to visualize Saccharomyces pombe"
+title: "Focused ion beam methods to visualize Saccharomyces pombe"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
@@ -7,7 +7,7 @@ tag:
 - contributed
 - poster
 - life sciences
-- Imaging across scales, Multimodal imaging
+- imaging across scales & multimodal imaging
 category: projects
 author:
 #description: Markdown summary with different options

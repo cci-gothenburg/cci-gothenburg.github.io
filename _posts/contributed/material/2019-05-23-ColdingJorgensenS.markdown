@@ -1,5 +1,5 @@
 ---
-title: "Colding-Jørgensen, S. | 3D orientation mapping in the TEM on state-of-the-art Solid Oxide Fuel Cell material CGO"
+title: "3D orientation mapping in the TEM on state-of-the-art Solid Oxide Fuel Cell material CGO"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false

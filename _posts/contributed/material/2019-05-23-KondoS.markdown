@@ -1,11 +1,12 @@
 ---
-title: "Kondo, S. | Direct characterization of atomic-scale crack propagation path in grain boundary fracture"
+title: "Direct characterization of atomic-scale crack propagation path in grain boundary fracture"
 layout: post
 date: 2019-05-23 02:00
 headerImage: false
 tag:
 - contributed
 - material sciences
+- in situ microscopy
 category: projects
 author:
 #description: Markdown summary with different options
