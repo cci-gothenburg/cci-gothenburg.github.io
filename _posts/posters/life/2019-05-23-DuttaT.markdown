@@ -1,5 +1,5 @@
 ---
-title: "Koner, A. L. | Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy"
+title: "Dutta, T. | Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy"
 layout: post
 date: 2019-05-23 08:00
 image:
@@ -12,7 +12,7 @@ author:
 #description: Markdown summary with different options
 ---
 
-_Tanoy Dutta, **Apurba L Koner**_.<br/>
+_**Tanoy Dutta**, Apurba L Koner_.<br/>
 Department of Chemistry, Indian Institute of Science Education and Research Bhopal, Bhopal Bypass Road, Bhauri, Bhopal-462066, Madhya Pradesh, India.<br/>
 
 

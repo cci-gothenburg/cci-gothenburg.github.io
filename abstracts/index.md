@@ -113,14 +113,14 @@ L02    | **Blomqvist,<br/>Charlotte Hamngren** | <br/>[Visualizing GFP by EM –
 L03    | **Colomb-Delsuc,<br/>Mathieu**        | <br/>[Advancing TEM Based Biomedical Nanoparticle Characterization: GMP Compliant TEM Workflow In a BSL2 Environment](/ColombDelsucM)<br/><br/>
 L04    | **Dolan,<br/>Brendan**                | <br/>[The use of live cell imaging to investigate compound mucus exocytosis from goblet cells](/DolanB)<br/><br/>
 L05    | **Droumpali,<br/>Ariadni**            | <br/>[Visualization and characterization of biofilm formation from marine bacteria by SEM technique](/DroumpaliA)<br/><br/>
-L06    | **Ermund,<br/>Anna**                  | <br/>[Visualizing invisible mucus](/ErmundA)<br/><br/>
-L07    | **Franzdóttir,<br/>Sigríður Rut**     | <br/>[Studying protein expression and intracellular dynamics of Pontin and Reptin in vivo](/FranzdottirSR)<br/><br/>
-L08    | **Grant,<br/>Stephen**                | <br/>[Refractive index mapping of algal cells using the transport of intensity equation](/GrantS)<br/><br/>
-L09    | **Heiligenstein,<br/>Xavier**         | <br/>[CryoCapCell: a global workflow for HPF-CLEM](/HeiligensteinX)<br/><br/>
-L10    | **Henriksson,<br/>Sara**              | <br/>[Focused ion beam methods to visualize Saccharomyces pombe](/HenrikssonS)<br/><br/>
-L11    | **Holzenburg,<br/>Andreas**           | <br/>[Approaching the quantum realms of photosynthetic electron transfer](/HolzenburgA)<br/><br/>
-L12    | **Keuenhof,<br/>Katharina**           | <br/>[Quantifying Cellular Responses to Heat-Shock](/KeuenhofK)<br/><br/>
-L13    | **Koner,<br/>Apurba&nbsp;L.**         | <br/>[Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy](/KonerAL)<br/><br/>
+L06    | **Dutta,<br/>Tanoy**         | <br/>[Discerning the micropolarity of endoplasmic reticulum under cellular stress with high-resolution fluorescence microscopy](/DuttaT)<br/><br/>
+L07    | **Ermund,<br/>Anna**                  | <br/>[Visualizing invisible mucus](/ErmundA)<br/><br/>
+L08    | **Franzdóttir,<br/>Sigríður Rut**     | <br/>[Studying protein expression and intracellular dynamics of Pontin and Reptin in vivo](/FranzdottirSR)<br/><br/>
+L09    | **Grant,<br/>Stephen**                | <br/>[Refractive index mapping of algal cells using the transport of intensity equation](/GrantS)<br/><br/>
+L10    | **Heiligenstein,<br/>Xavier**         | <br/>[CryoCapCell: a global workflow for HPF-CLEM](/HeiligensteinX)<br/><br/>
+L11    | **Henriksson,<br/>Sara**              | <br/>[Focused ion beam methods to visualize Saccharomyces pombe](/HenrikssonS)<br/><br/>
+L12    | **Holzenburg,<br/>Andreas**           | <br/>[Approaching the quantum realms of photosynthetic electron transfer](/HolzenburgA)<br/><br/>
+L13    | **Keuenhof,<br/>Katharina**           | <br/>[Quantifying Cellular Responses to Heat-Shock](/KeuenhofK)<br/><br/>
 L14    | **Lin,<br/>Yii-Lih**                  | <br/>[Multiplexed optical DNA mapping to identify plasmids and their resistance genes](/LinYL)<br/><br/>
 L15    | **Midtvedt,<br/>Daniel**              | <br/>[Digital Holographic Microscopy for real-time quantitative monitoring of stress at the cellular level](/MidtvedtD)<br/><br/>
 L16    | **Neděla,<br/>Vilém**                 | <br/>[The Low Temperature Method for ESEM – a New Method for in vivo study of fresh diatom assemblages](/NedelaV)<br/><br/>
