@@ -1,4 +1,4 @@
-We are using the theme by kooplin but the name Indigo
+We are using the theme by kooplin named [Indigo](https://github.com/sergiokopplin/indigo)
 
 ---
 
