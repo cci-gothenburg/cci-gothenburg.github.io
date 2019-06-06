@@ -163,6 +163,7 @@ M20    | **Schwalb,<br/>Christian**      | <br/>[Correlative In-Situ Analysis of
 M21    | **Sjökvist,<br/>Robin**         | <br/>[Au Particle Composition and State During in-situ InAs Nanowire Growth in an Environmental TEM](/SjokvistR)<br/><br/>
 M22    | **Thronsen,<br/>Elisabeth**     | <br/>[Studying precipitates in pre-deformed Al-Mg-Si-Cu alloys by atomic resolution STEM and scanning electron diffraction](/ThronsenE)<br/><br/>
 M23    | **Vippola,<br/>Minnamari**      | <br/>[Correlating in-situ nanoindentation, EDS and EBSD characterization results: Case study of flame cut wear-resistant steel plates](/VippolaM)<br/><br/>
+M24    | **Tornberg,<br/>Marcus**      | <br/>[Investigating the limits of III-V nanowire growth based on droplet dynamics using environmental TEM](/TornbergM)<br/><br/>
 
 ---
 
