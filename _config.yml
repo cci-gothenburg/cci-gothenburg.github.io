@@ -1,6 +1,6 @@
 # main text of home
 name: Centre for Cellular Imaging
-bio: SCANDEM Nordic Microscopy Society
+bio: University of Gothenburg <br/> Sahlgrenska Academy <br/> Core Facilities
 
 # twitter summary info
 description: Website for the SCANDEM 2019 conference
@@ -76,9 +76,10 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
-abstracts: true
+#abstracts: true
 #test: true
 blog: true
+courses: true
 
 # do you want to show the "read time" of the posts?
 # read-time: true

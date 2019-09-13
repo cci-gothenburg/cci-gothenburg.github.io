@@ -3,7 +3,7 @@ layout: page
 title: Abstracts
 ---
 
-## Abstracts
+## Abstracts for SCANDEM 2019
 
 ---
 
