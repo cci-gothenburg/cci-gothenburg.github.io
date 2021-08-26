@@ -1,0 +1,32 @@
+---
+title: "Correlative super resolution and electron microscopy methods for nanomedicine"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- CLEM
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_Teodora Andrian<sup>1</sup>, Lorenzo Albertazzi<sup>1,2</sup>, **Silvia Pujals**<sup>1</sup>_
+
+1- Institute for Bioengineering of Catalonia (IBEC), The Barcelona Institute of Science and Technology.
+
+2- Department of Biomedical Engineering, Institute for Complex Molecular Systems (ICMS), Eindhoven University of Technology
+
+
+## Abstract
+
+Correlative light and electron microscopy (CLEM) entails a group of multimodal imaging techniques that are combined to pinpoint to the location of fluorescently labelled molecules in their ultrastructural context. Correlative super resolution and electron microscopy is one CLEM modality in which super resolution microscopy is used instead of conventional fluorescence microscopy techniques.
+
+Single-molecule localization microscopy (SMLM) is one of the super resolution microscopy families, offering excellent resolution (5–25 nm), multi-colour imaging and quantification capability with single-particle precision.  Thus, the improved resolution of SMLM leads to a nanoscale localization precision of the specific fluorescent labels in the ultrastructural reference space provided by EM.
+
+Super-resCLEM methods have been mainly applied to biological samples; here we introduce it for synthetic materials. The decoration of nanoparticles with functional moieties is a key strategy to achieve cell targeting in nanomedicine. The interplay between size and ligand number is crucial for the formulation performance and needs to be properly characterized to understand nanoparticle structure−activity relations. However, there is a lack of methods able to measure both size and ligand number at the same time and at the single particle level. We address this issue by introducing a super-resCLEM method, specifically by combining one type of SMLM (DNA-PAINT) with TEM.
+
+We highlight how heterogeneity found in size can impact ligand distribution and how a significant part of the nanoparticle population goes completely undetected in the single-technique analysis. Super-resCLEM holds great promise for the multiparametric analysis of other parameters and nanomaterials.
+
+Andrian, T., Delcanale, P. Pujals, S., Albertazzi, L. Correlating Super-Resolution Microscopy and Transmission Electron Microscopy Reveals Multiparametric Heterogeneity in Nanoparticles. Nano Lett. (2021) 21(12):5360-5368.

@@ -1,0 +1,25 @@
+---
+title: "Cell-Type Analyzer: A Fiji/ImageJ plugin for detection, quantification and classification of fluorescent labeled single-cell according to user customization"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- poster
+- novel correlative imaging
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Cayuela, Ana** and Sorzano, C.O.S._
+
+Biocomputing Unit, National Centre for Biotechnology, Cantoblanco,Madrid, Spain
+
+1 IGC, Instituto Gulbenkian de Ciencias, Oeiras – Portugal
+
+2 FCUL, Fac. Ciencias Univ. Lisbon – Portugal
+
+## Abstract
+
+Over last decades, fluorescence microscopy techniques have experienced a substantial increase in visualization and analysis of many biological processes Here we describe an automated and versatile tool called Cell-TypeAnalyzer to avoid the time-consuming and biased manual counting of subcellular structures. It consists in an open source plugin for both Fiji and ImageJ to visualize, detect, filter, delineate, quantify, characterize and generate customized classifications for specific cell types (or different cell stages in life cycle) over 2D images. The workflow implemented here involves (I) data spatial calibration on physical units and sub-region selection for analysis; (II) auto-threshold global methods and watershed algorithms to isolate cells from background; (III) data tables for single cell characterization and statistical summary for selected cell physical metric; (IV) initial filters to select individual cells based on physical features with a threshold value associated; (V) delineated cell visualization; (VI) morphological filtering for cell outlines: erosion and dilation; (VII) foci per nucleus analysis for counting small bright dots per cell; (VIII) configuration of customized classes for specific cell types based on physical features with a threshold value associated; (IX) identification and labeling of both single-positive and double-positive cells ; (X) Configurable scatter-plot to display any cell feature as a function of another and fitting functions. Our software provides an intuitive, modular and flexible strategy to perform image analysis through a wizard-like GUI in which user may be guided to each step of customized analysis. This procedure may be applied in batch mode to multiple microscopy files (requiring less than 5 seconds per image) through loading an editable .xml Configuration file generated automatically containing the whole setting up parameters for processing. An additional GUI for code custom is provided to run pre-processing actions both by writing in any of ImageJ’s supported languages their own code and by browsing for macros (.txt or .ijm) or script files (.js, .bsh or .py).  In short, together these features make this tool well-suited to any researcher without programming proficiency  to deal with challenging situations as uneven backgrounds or experiments when low number of fluorescently labeled objects determines a variable signal to noise ratio.

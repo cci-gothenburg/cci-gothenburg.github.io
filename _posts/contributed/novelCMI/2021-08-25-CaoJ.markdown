@@ -1,0 +1,35 @@
+---
+title: "Correlative multimodal imaging of the in situ metabolism of early-stage atherosclerosis in LDLR deficient mice"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- novel correlative imaging
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Jianhua Cao**<sup>1</sup>, Marta Martin-Lorenzo<sup>2</sup>, Kim van Kuijk<sup>3</sup>, Britt S. R. Claes<sup>1</sup>, Marion J. Gijbels<sup>3,4</sup>, Judith Sluimer<sup>3</sup>, Ron M.A. Heeren<sup>1</sup>, Gloria Alvarez-Llamas<sup>2,5*</sup>, Benjamin Balluff<sup>1*</sup>_
+
+1 Maastricht Multimodal Molecular Imaging Institute (M4I), Maastricht University, Maastricht, The Netherlands
+
+2 Immunology Department, IIS-Fundación Jimenez Diaz-UAM, Madrid, Spain
+
+3 Maastricht UMC+, Pathology Department, Cardiovascular Research Institute Maastricht (CARIM), Maastricht, The Netherlands
+
+4 Department of Medical Biochemistry, Experimental Vascular Biology, Amsterdam UMC, University of Amsterdam, Amsterdam, the Netherlands
+
+5 Red de Investigación Renal (REDINREN), Instituto de Salud Carlos III, Madrid, Spain
+
+## Abstract
+
+Atherosclerosis is a progressive inflammatory and metabolic disorder. It is characterized by plaque formation in the arterial wall driven by abnormal and interconnected metabolic processes between immune, endothelial, and vascular smooth muscle cells. These local processes remain poorly understood and hence we aim to characterize these metabolic alterations associated with early atherosclerosis while locating them within the aortic structure using mass spectrometry imaging (MSI).
+
+We performed MSI for non-targeted metabolomics of aortic tissue obtained from low-density lipoprotein receptor deficient (ldlr-/-) mice fed with high fat diet (HFD) (n=11), in comparison with a control group fed with normal diet (n=11). In addition, four different stainings were conducted to histologically and molecularly characterize the dissected atherosclerotic aortic sections and to correlate them to the MSI data: hematoxylin & eosin staining (overview of the cellular and tissue structure), red alizarin (calcification), Oil red O (neutral lipids), and CD68 immunohistochemistry (macrophages). Selected metabolites were analyzed by targeted mass spectrometry in selected reaction monitoring mode (SRM) in mouse plasma samples (ntotal=26) to investigate a potential translation of aortic metabolic alterations to a biological fluid with diagnostic potential.
+
+A total of 2,901 m/z species were detected by MSI and subsequently statistically analyzed. Among them, 362 m/z species were observed significantly altered between control and HFD samples (P<0.05; Log2-fold-change>1.5). Comparing the different regions within the samples, 46, 153, and 205 m/z species were found significantly altered in the adventitia layer, the media layer, and the cardiomyocytes regions, respectively. Based on the different stainings, plaque formation, aggravated lipids accumulation, and increased aorta macrophages were observed in the pathological group. This together with the absence of obvious calcium deposits within the atheroma plaque, suggests that the identified changes correspond to an early stage of atherosclerosis. SRM of selected metabolites confirmed the variation trends between aortic tissue and mouse plasma samples (P<0.1).
+
+This study demonstrates that the combination of untargeted in situ metabolomics of atherosclerotic aortic tissue with complementary molecular and histological stainings offers a holistic strategy to better understand metabolic processes involved in the onset and progression of early-stage atherosclerosis and to discover novel minimally-invasive markers with diagnostic potential.

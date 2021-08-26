@@ -1,0 +1,25 @@
+---
+title: "An optical image of viral particles with computational multiphoton microscopy"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- poster
+- CLEM
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Claire Lefort**_
+
+Université de Limoges, CNRS (France)
+
+## Abstract
+
+We have recently developed a new instrumental and computational pipeline named FAMOUS devoted to the optical imaging of biological objects. The interest of optical microscopy and more precisely multiphoton microscopy compared to electron or atomic force microscopy strategies rests on its ability to produce images from samples in standard conditions of temperature, pressure and chemical environment. Thus, in vivo imaging is accessible thanks to optical microscopy. The multiphoton imaging of viral particles faces to the physical restriction of diffraction limit. Point-like objects become spread spots at the image, damaged by out-of-focus blur making impossible the distinction between viral particles directly with the raw 2D or 3D acquisitions.
+
+Our solution rests on the simultaneous recording of raw signal and instrumental response of the system (Point-Spread-Function, PSF). A computational fitting pipeline generates a 3D Gaussian model of the PSF signal and then a strategy of 3D image recovery with a block distributed majorize-minimize memory gradient (BD3MG) produces the restored image. In the current communication, we have imaged viruses from the family of Herpesviridae: cytomegaloviruses (CMV). These biological objects have a distribution diameter between 150 and 300 nm, in the range of the diffraction limit estimated for our system at 280 nm for the optical plan. The viral particles were initially concentrated thanks to magnetic microspheres. Thus, clusters of viral particles were deposited onto the microscope slide. The pipeline FAMOUS delivers 3D images in a depth of few micrometres of viral clusters of CMV, surrounding magnetic microspheres. The corresponding scanning electron microscopy (SEM) images of the viral cluster confirms the information delivered by the resulting multiphoton images produced with FAMOUS instrumental and computational pipeline. A new information of 3D structuration of viral particles, into the imaging depth are accessible for the first time. 
+
+Currently, Sars-Cov-2 virions are tested for producing 3D images of free virions. Then, the social perception of these scientific images, relatively to the mediatic perception of the virus, will be estimated in the context of the pandemic crisis, especially for the senior population, aged over 65.

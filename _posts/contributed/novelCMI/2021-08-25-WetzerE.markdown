@@ -1,0 +1,30 @@
+---
+title: "Registration of Multimodal Microscopy Images using CoMIR – learned structural image representations"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- novel correlative imaging
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+
+_**Elisabeth Wetzer**, Nicolas Pielawski, Johan Öfverstedt, Jiahao Lu, Carolina Wählby, Joakim Lindblad, Nataša Sladoje_
+
+Centre for Image Analysis, Uppsala University
+
+## Abstract
+
+Combined information from different imaging modalities enables an integral view of a specimen, offering complementary information about a diverse variety of its properties. To efficiently utilize such heterogeneous information, spatial correspondence between acquired images has to be established. The process is referred to as image registration and is highly challenging due to complexity, size, and variety of multimodal biomedical image data.  
+We have recently proposed a method for multimodal image registration based on Contrastive Multimodal Image Representation (CoMIR).  It reduces the challenging problem of multimodal registration to a simpler, monomodal one. The idea is to learn image-like representations for the input modalities using a contrastive loss based on InfoNCE. These representations are abstract, and very similar for the input modalities, in fact, similar enough to be successfully registered. They are of the same spatial dimensions as the input images and a transformation aligning the representations can further be applied to the corresponding input images, aligning them in their original modalities. This transformation can be found by common monomodal registration methods (e.g. based on SIFT or alpha-AMD).
+
+We have shown that the method succeeds on a particularly challenging dataset consisting of Bright-Field (BF) and Second-Harmonic Generation (SHG) tissue microarray core images, which have very different appearances and do not share many structures. For this data, alternative learning-based approaches, such as image-to-image translation, did not produce representations usable for registration. Both feature- and intensity-based rigid registration based on CoMIRs outperform even the state-of-the-art registration method specific for BF/SHG images. An appealing property of our proposed method is that it can handle large initial displacements.
+
+The method is not limited to BF and SHG images; it is applicable to any combination of input modalities.
+CoMIR requires very little aligned training data thanks to our data augmentation scheme. From an input image pair, it generates augmented patches as positive and negative samples, needed for the contrastive loss. For modalities which share sufficient structural similarities, the required aligned training data can be as little as one image pair.
+
+Further details and the code are available at github.com/MIDA-group/CoMIR

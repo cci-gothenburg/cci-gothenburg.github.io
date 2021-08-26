@@ -1,0 +1,23 @@
+---
+title: "Optical Projection Tomography and Light-Sheet Microscopy Combined: Multimodal Mesoscopic Imaging"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- poster
+- novel correlative imaging
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Donald Fowler**<sup>1</sup>, Alexandre Lopes<sup>1</sup>, Andre Dias<sup>1</sup>, Hugo Pereira<sup>1</sup>, Tiago Vale<sup>1</sup>, Moisés Mallo<sup>1</sup>, Gabriel G Martins<sup>1,2</sup>_
+
+1 IGC, Instituto Gulbenkian de Ciencias, Oeiras – Portugal
+
+2 FCUL, Fac. Ciencias Univ. Lisbon – Portugal
+
+## Abstract
+
+Mesoscopic imaging refers to techniques which allow 3D fluorescence imaging of large samples at the mm-to-cm scale. Light-sheet microscopy (LSM) is the reference optical imaging modality, allowing imaging inside large samples such as whole embryos much faster and with far less photo toxicity than other techniques such as confocal/two-photon microscopy. However, LSM datasets can easily ascend to hundreds of Gb or even TBs. Optical projection Tomography (OPT) also allows imaging of large samples, though typically with lower resolution, but it has the advantage of producing isometric datasets and allowing 3D imaging of both fluorescent and non-fluorescent samples. We previously presented i) OpenSpin microscopy (Gualda et al 2013; http://sites.google.com/site/openspinmicroscopy), which allows LSM/OPT and ii) OPenT (Felix et al 2016), a platform simplified and optimized for OPT imaging. Here we present results from using a prototype Multimodal Mesoscope with optimized versions of both OPT and LSM which can image large samples within one sample chamber. Notably, a hexapod mutant mouse embryo is imaged using both OPT and LSM and then analyzed including anatomical segmentation. We discuss the workflow, from acquisition, and pre-processing, to registration and analysis, involved in acquiring both OPT and SPIM datasets and discuss its merits and limitations.

@@ -1,0 +1,30 @@
+---
+title: "Ion based multimodal in situ imaging in biological systems: introducing the npSCOPE"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- novel correlative imaging
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+
+_**Tatjana Taubitz**, Olivier De Castro, Jean-Nicolas Audinot, Tom Wirtz and Antje Biesemeier_
+
+Advanced Instrumentation for Nano-Analytics (AINA), MRT Department, Luxembourg Institute of Science and Technology (LIST), Belvaux, Luxembourg
+
+## Abstract
+
+Correlative multimodal imaging in biological systems is oftentimes limited by the need of using several analytical instruments to permit high-resolution and high-sensitivity morphological and chemical analyses. Time-consuming repeated sample exchange/transfer, introduction of artifacts and tedious data post-processing to allow correlation are just some of the common issues. Incorporation of several complimentary characterisation techniques into one instrument can therefore help streamlining analytical workflows.
+
+We here describe the in-house developed npSCOPE instrument, based on the Gas Field Ion Source technology, providing finely focused He+ and Ne+ ion beams allowing the use of three different characterisation techniques in one single platform: 1) secondary electron (SE) imaging, providing morphological and topographical information (lateral resolution HeSE: 0.5 nm), 2) secondary ion mass spectrometry (SIMS), providing high-sensitivity chemical information with the ability to detect all elements and to distinguish between isotopes (lateral resolution NeSIMS: <15 nm) and 3) scanning transmission ion microscopy (STIM), providing bright field and dark field imaging. Furthermore, the instrument is technically equipped to allow the transfer under cryo-vacuum conditions and investigation of frozen-hydrated samples.
+
+Several possible biological research applications of the npSCOPE will be presented, such as nanotoxicology of incorporated nanoparticles and subcellular analyses of structural and metabolical marker ions, along with early results of cryo-imaging development.
+
+Thin tissue sections, as used for transmission electron microscopy, yield only limited information by SE imaging, but can be morphologically and structurally investigated by STIM imaging to choose regions of interest for SIMS analysis. The mass spectrometer contains a novel focal plane detector that allows the acquisition of the complete mass spectrum for each pixel. This omits the need to pre-define a limited number of investigated masses, as is common in many commercial SIMS systems. A high dynamic range (i.e. detection of secondary ion signals over several orders of magnitude) and isotopic selectivity further broaden the area of application. Finally, experimental time is shortened by the lack of sample transfer need between several instruments.
+
+This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme under grant agreement No. 720964 and by the Luxembourg National Research Fund via the project INTER/DFG/19/13992454.

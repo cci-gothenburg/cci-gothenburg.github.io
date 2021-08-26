@@ -1,0 +1,20 @@
+---
+title: "Multiscale LivE imaging of bone remodeling and regeneration"
+layout: post
+date: 2019-05-23 14:00
+image: https://hest.ethz.ch/en/studies/health-sciences-and-technology/master-hst/majors/tutors/tutors-a-z/ralph-mueller/_jcr_content/par/twocolumn/par_left/fullwidthimage/image.imageformat.twocolumn.896729780.jpg
+headerImage: true
+tag:
+- invited
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Ralph Müller**_<br/>
+ETH Zurich, Institute for Biomechanics <br/>
+
+## Abstract
+
+Cyclic mechanical loading is perhaps the most important physiological factor regulating bone mass and shape balancing optimal strength with minimal weight and is currently investigated as a strategy to prevent age-related bone loss and consequent osteoporotic fractures. This adaptation process spans multiple length and time scales. Forces resulting from physiological loading at the organ scale are sensed at the cellular scale by osteocytes residing inside the bone matrix. Via biochemical pathways, osteocytes orchestrate local remodeling action of bone formation and resorption. Together these local adaptive remodeling activities sum up to strengthen the skeleton globally at the organ scale. To resolve the underlying mechanisms, it is required to identify and quantify both cause and effect across the different scales. In silico models of bone remodeling and regeneration have been developed to piece together various experimental observations at the different scales into coherent and plausible mechanisms. However, additional quantitative experimental validation is still required to build upon these insights. Such a multiscale systems mechanobiology approach to understanding biological systems demands the development of high-throughput experimental methods, which are capable of yielding spatiotemporal information at single cell resolution. Given the diverse micro-mechanical environment, which exists in loaded bone, the availability of such data for osteocytes would undoubtedly enhance our understanding of their role in bone remodeling and regeneration. To that end, we have developed a local in vivo environment (LivE) imaging technique using in vivo micro-computed tomography in combination with histology and image processing. LivE imaging allows to quantify the mechanical and remodeling in vivo microenvironment of hundreds of individual osteocytes for several weeks prior to histological processing. As part of this presentation, emerging as well as state-of-the-art in vivo and in silico techniques will be discussed and how we use these techniques in a multiscale systems mechanomics approach to further our understanding of mechanisms governing load induced bone remodeling and regeneration. Bone mechanomics allows coupling of biochemical information with mechanical microenvironment of single cells in local in vivo environment in bone. In the future, this will facilitate better understanding of the biochemical signaling cascade in load induced skeletal adaptation and regeneration.<br/>

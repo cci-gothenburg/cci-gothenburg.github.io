@@ -1,0 +1,30 @@
+---
+title: "Reactive gliosis is a critical pathophysiological component in normalization of functional connectivity after stroke"
+layout: post
+date: 2019-05-23 14:00
+image: https://pbs.twimg.com/profile_images/1125312999261179904/6Y6DQr_I_400x400.png
+headerImage: true
+tag:
+- invited
+- preclinical
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Markus Aswendt**<sup>1</sup>, Ulrika Wilhelmsson<sup>2</sup>, Frederique Wieters<sup>1</sup>, Anna Stokowska<sup>2</sup>, Felix Johannes Schmitt<sup>1</sup>, Niklas Pallast<sup>1</sup>, Yolanda de Pablo<sup>2</sup>, Lava Mohammed<sup>2</sup>, Mathias Hoehn<sup>3</sup>, Marcela Pekna<sup>2*</sup>, Milos Pekny<sup>2,4,5</sup>._
+
+1 University of Cologne, Faculty of Medicine and University Hospital Cologne, Department of Neurology, Cologne, Germany <br/>
+2 Center for Brain Repair and Rehabilitation, Department of Clinical Neuroscience and Rehabilitation, Institute of Neuroscience and Physiology, Sahlgrenska Academy at the University of Gothenburg, Sweden <br/>
+3	Cognitive Neuroscience, Institute of Neuroscience and Medicine (INM-3), Research Center Juelich, Germany<br/>
+4 	Florey Institute of Neuroscience and Mental Health, Parkville, VIC, Australia<br/>
+5 	University of Newcastle, Newcastle, NSW, Australia
+
+## Abstract
+
+Introduction: Reactive astrocytes are key components of stroke pathophysiology with different functions depending on the time after injury. In contrast to the understanding of their cellular features, their role in the functional network re-organization related to spontaneous functional recovery are unknown. Here, we demonstrate that after cortical stroke in mice, attenuation of reactive gliosis results in suboptimal re-organization of functional neuronal networks and maladaptive plasticity responses.<br/>
+
+Methods: GFAP/Vimentin-deficient (GFAP-/-Vim-/-) and wild-type (WT) mice underwent cortical strokes by photothrombosis and monitoring for 4 weeks. Sensorimotor deficit was determined using rotating beam, grid walk and cylinder test. Whole-brain T2-weighted RARE sequence (T2w-MRI) and gradient-echo EPI sequence for rs-fMRI was modified from (1) and acquired using a 94/20USR BioSpec Bruker. The mouse was head-fixed and anaesthetized with Isoflurane (2-3% in 70/30 N2/O2) and during rs-fMRI with 0.5% and 0.1 mg/kg Medetomidine. In-house tools were used for stroke lesion mapping and functional connectivity analysis (2, 3). The immunohistochemistry of Iba1, Sox2, S100beta and GAP43 was quantified in the ipsilesional and contralesional cortex 4 weeks after stroke.
+Results: In the acute phase, the infarct volume, sensorimotor deficits and functional connectivity were comparable between GFAP-/-Vim-/- and WT mice. However, at 4 weeks after stroke GFAP-/-Vim-/- mice showed less efficient restoration of global functional connectivity associated with impaired functional recovery. By assessing individual connections of the stroke-affected brain regions, we found a higher number of lost and new functional connections between primary and secondary targets of cortical stroke together with an increased expression of Gap43 in GFAP-/-Vim-/- mice.<br/>
+
+Conclusion: These findings suggest that attenuation of reactive gliosis leads to suboptimal re-organization of functional neuronal networks and maladaptive plasticity responses after stroke. We conclude that reactive gliosis is required for normalization of functional connectivity and recovery after stroke.<br/>

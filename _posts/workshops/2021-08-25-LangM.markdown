@@ -1,0 +1,24 @@
+---
+title: "ZEISS Correlative Cryo Workflow – from image acquisition to visualization & analysis"
+layout: post
+date: 2019-05-23 14:00
+image: https://pbs.twimg.com/profile_images/624231345783480321/_GXgq_Vq_400x400.png
+headerImage: true
+tag:
+- workshop
+- CLEM
+- Carl Zeiss GmbH
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_Alexandra Elli, Sebastian Rhode, **Marion Lang**_
+
+Carl Zeiss GmbH
+
+## Abstract
+
+Cryogenic microscopy is an emerging technique for structural analysis of macromolecules in their cellular context. Because the ultrastructure of cells and tissues can be preserved free of artifacts, cryogenic microscopy allows the examination of cellular structures in their near-to-native state. However, cryogenic microscopy presents users with complex challenges, such as time-consuming preparation and imaging procedures, devitrification, ice contamination or loss of samples. ZEISS Correlative Cryo Workflow overcomes these challenges by connecting widefield, laser scanning, and FIB-SEM microscopes in a seamless and easy-to-use procedure. The solution provides hardware and software optimized for the needs of correlative cryogenic workflows, from localization and imaging of fluorescent macromolecules with highest resolution to high-contrast volume EM imaging and on-grid lamella thinning for cryo electron tomography.
+
+Alignment and overlay of images from different modalities as well as processing and segmentation of the acquired cryogenic EM data are further challenges that need to be solved to master this workflow. ZEN blue offers seamlessly integrated tools that enable the user to perform all required steps to register and align the data, remove typical artifacts such as stripes via GPU accelerated algorithms and segment the images based on neural networks to finally overlay and analyze LM and EM 3D data acquired under cryo conditions. In this presentation we will show on how the combination of the modules ZEN connect, EM processing toolbox and Intellesis along with APEER can be combined to solve these complex challenges end-to-end.

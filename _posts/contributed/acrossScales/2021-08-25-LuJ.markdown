@@ -1,0 +1,27 @@
+---
+title: "Image-to-Image Translation in Multimodal Image Registration: How Well Does It Work?"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Jiahao Lu**, Johan Öfverstedt, Joakim Lindblad, Nataša Sladoje_
+
+MIDA Group, Department of Information Technology, Uppsala University
+
+## Abstract
+
+Despite current advancements in the field of biomedical image processing, propelled by the deep learning revolution, the registration of multimodal microscopy images, due to its specific challenges, is still often performed manually by specialists. Image-to-image (I2I) translation aims at transforming images from one domain while preserving their contents so they have the style of images from another domain. The recent success of I2I translation in computer vision applications and its growing use in biomedical areas provide a tempting possibility of transforming the multimodal registration problem into a, potentially easier, monomodal one.
+
+We have recently conducted an empirical study of the applicability of modern I2I translation methods for the task of multimodal biomedical image registration. We selected four Generative Adversarial Network (GAN)-based methods, which differ in terms of supervision requirement, design concepts, output quality and diversity, popularity, and scalability, and one contrastive representation learning method. The effectiveness of I2I translation for multimodal image registration is judged by comparing the performance of these five methods subsequently combined with two representative monomodal registration methods. We evaluate these method combinations on three publicly available multimodal datasets of increasing difficulty (including both cytological and histological images), and compare with the performance of registration by Mutual Information maximisation and one modern data-specific multimodal registration method.
+
+Our results suggest that, although I2I translation may be helpful when the modalities to register are clearly correlated, modalities which express distinctly different properties of the sample are not handled well enough. When less information is shared between the modalities, the I2I translation methods struggle to provide good predictions, which impairs the registration performance. They are all outperformed by the evaluated representation learning method, which aims to find an in-between representation, and also by the Mutual Information maximisation approach. We therefore conclude that current I2I approaches are, at this point, not suitable for multimodal biomedical image registration.
+
+Further details, including the code, datasets and the complete experimental setup can be found at https://github.com/MIDA-group/MultiRegEval.

@@ -1,0 +1,31 @@
+---
+title: "Euro-BioImaging can support your research with access to the best imaging tools"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Johanna Bischof** and Alessandra Viale_
+
+Euro-BioImaging
+
+## Abstract
+
+Innovative imaging technologies have revolutionised the life sciences by allowing researchers to visualise and measure a broad spectrum of molecular, cellular and physiological processes and events with an accuracy and coverage that have been previously out of reach. Imaging technologies are thus a central technology platform driving research in most disciplines of the life sciences and correlating multiple imaging approaches has become an increased need in the research.
+
+Euro-BioImaging’s role in the imaging revolution is to offers all scientists open access to imaging instruments, expertise, training opportunities, and data management services beyond what is available at their home institutions or among their collaborators.
+
+The technologies offered by Euro-BioImaging can be accessed at Euro-BioImaging Nodes, which are internationally renowned imaging facilities distributed across Europe. They cover the whole spectrum of biological and biomedical imaging, with an ever-growing portfolio of cutting-edge instruments. New technologies are included continuously to offer access to the most innovative technologies on the market. A number of Euro-BioImaging Nodes specialise in multimodal correlative imaging.
+
+All scientists, regardless of affiliation, area of expertise, or field of activity, can benefit from Euro-BioImaging’s pan-European open access services. For most technologies, scientists are invited to receive hands-on training at the imaging instrument of their choice so that they can generate the desired data sets themselves and expand their technological knowledge. Scientists interested in accessing Euro-BioImaging services simply submit a short description of their planned experiments via the online application portal.
+
+Euro-BioImaging also works with technology developers, both from academia as well as from industry, to highlight the latest developments in imaging technology, raise awareness for them and to proof their open access capabilities.
+
+Find more information or access the network of imaging facilities at www.eurobioimaging.eu

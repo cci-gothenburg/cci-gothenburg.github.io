@@ -1,0 +1,35 @@
+---
+title: "Correlative light and scanning electron microscopy to shed light on tyre and road wear particle emissions in the environment"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- contributed
+- CLEM
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Juliana Aristéia de Lima**, Karin Mattsson, Martin Hassellöv._
+
+Univerity of Gothenburg, Sweden
+
+## Abstract
+
+Tyre and road wear particles (TRWP) are estimated to be the second-largest microplastic pollutant to the environment after single-use plastic and accounts for up to 50% of air particulate emission from road transport (1,2). Tyres wear out from friction every time we brake, accelerate or turn a corner; and considerable parts of these particles are spread to the watercourses and the oceans. Nevertheless, it remains to be experimentally quantified and the physicochemical characteristics are largely unknown. In general, TRWP are analysed in conjunction with the excess of encrusted road mineral particles causing the variable amount of mineral encrustations, which makes the elemental composition between rubber particles and other minerals and fibres present in the environment very similar and do not allow the detection of the polymeric matrix (3-6). Thus, the relation between tyre composition, road surface characteristics and tyre wear is also unknown.
+
+In this work, we present an experimental workflow, using correlative analysis, between light microscopy (Zeiss Axio-Zoom. V16, objective PlanNeo Fluar Z 50x and LED illumination) and SEM/EDS (Zeiss field emission SEM Gemini 300 with the energy-dispersive X-ray spectrometer from Bruker in VP mode), denominated as correlative light electron microscopy (CLEM). This approach allowed obtaining a comprehensive and informative image, emerging as powerful tool identifying and classifying the particles based on elemental fingerprint.
+
+[1] Wagner S, Hüffer T, Klöckner P, Wehrhahn M, Hofmann T, Reemtsma T., Water Res. 139: 83, 2018.
+
+[2] Magnusson K, Eliasson K, Fråne A, Haikonen K, Hultén J, Olshammar M, Stadmark J, Voisin A., 2016. Swedish Sources and Pathways for Microplastics to the Marine Environment- a Review of Existing Data. https://www.naturvardsverket.se/upload/miljoarbete-i-samhallet/miljoarbete-isverige/regeringsuppdrag/2016/mikroplaster/swedish-sources-and-pathways-for-microplastics-to-marine%20environment-ivlc183.
+
+[3] Wagner S, Hüffer T, Klöckner P, Wehrhahn M, Hofmann T, Reemtsma T., Water Res. 139: 83, 2018.
+
+[4] Sommer F, Dietze V, Baum A, Sauer J, Gilge S, Maschowski C, Gieré R., Aerosol Air Qual.Res., 18: 2014, 2018.
+
+[5] Kreider ML, Panko JM, McAtee BL, Sweet LI, Finley BL. Science of the Total Environment 408: 652, 2010.
+
+[6] Kovochich M, Liong M, Parker JA, Oh SC, Lee JP, Xi L, Kreidet ML, Unice KM. Science of the Total Environment 757: 144085, 2021.

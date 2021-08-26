@@ -1,0 +1,35 @@
+---
+title: "Graph neural network approach to anomalous random walks characterisation: application to unsupervised membrane protein dynamics analysis"
+layout: post
+date: 2019-05-23 14:00
+image: https://diva.pasteur.fr/wp-content/uploads/2019/06/jean-baptiste.png
+headerImage: true
+tag:
+- invited
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_Hippolyte Verdier, François Laurent, Christian L. Vestergaard, **Jean-Baptiste Masson**_
+
+Institut Pasteur
+
+## Abstract
+
+Single particule trajectories offer the possibility to probe the physical  properties of their environment by having random walkers sampling it spatially [1]. A recurring problem with these measures is the resolution of inverse problems of finding the nature of random walks from usually short realisations [2]. Inferring reliable information from short trajectories is made difficult by the stochasticity of movements, by experimental noises, and by the degeneracy of characteristics for short trajectories [3-5]. It is also made difficult as the main properties of some random walks are defined asymptotically.
+
+Here, we introduce a new simulation-based inference approach to perform fast and reliable estimates of random walk properties [6]. By associating graphs to trajectories and using a graph neural network to perform learning on these, we show that we can reliably infer the nature of random walks along with their anomalous exponent. The method can naturally be applied to trajectories of any length. We show its efficiency on typical random walks met in biological environments and discuss the interpretability of the learning procedure. Finally, we discuss application of this approach to Glycine receptor dynamics in synapses and Gag dynamics during virion formation.
+
+[1] Blanc T et al, Genuage: visualize and analyze multidimensional single-molecule point cloud data in virtual reality. Nat Methods.  17, pages1100–1102 (2020)
+
+[2] Cranmer K et al, The frontier of simulation-based inference. Proc Natl Acad Sci U S A. Dec 1;117(48):30055-30062 (2020)
+
+[3] Serov AS, et al. Statistical tests for force inference in heterogeneous environments. Sci Rep 10:3783. (2020)
+
+[4] Floderer C., et al, Single molecule localisation microscopy reveals how HIV-1 Gag proteins sense membrane virus assembly sites in living host CD4 T cells,Sci. Rep., 8, No 16283, (2018)
+
+[5] El Beheiry M, et al: mapping of single-molecule dynamics with Bayesian inference. Nat Methods. Jul;12(7):594-5 (2015)
+
+[6] Verdier H et al, Learning physical properties of anomalous random walks using graph neural networks,  J. Phys. A: Math. Theor. 54 234001, 2021

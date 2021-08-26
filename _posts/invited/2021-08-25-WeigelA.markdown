@@ -1,0 +1,20 @@
+---
+title: "Whole cell organelle segmentation in volume electron microscopy"
+layout: post
+date: 2019-05-23 14:00
+image: https://www.janelia.org/sites/default/files/styles/epsa_200x200/public/pictures/weigela.jpg?itok=lYVw8MhK
+headerImage: true
+tag:
+- invited
+- CLEM
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Aubrey Weigel**_<br/>
+Janelia Research Campus, USA <br/>
+
+## Abstract
+
+Cells contain hundreds of organelles and macromolecular assemblies. Obtaining a complete understanding of their intricate organization requires nanometer-level, three-dimensional reconstruction of whole cells which is only feasible with robust and scalable automatic methods. To support the development of such methods, we annotated up to 35 different cellular organelle classes - ranging from endoplasmic reticulum to microtubules to ribosomes - in diverse sample volumes from multiple cell types imaged at a near-isotropic resolution of 4 nm per voxel with focused ion beam scanning electron microscopy (FIB-SEM). We trained deep learning architectures to segment these structures in 4 nm and 8 nm per voxel FIB-SEM volumes, carefully validated their performance, and showed that automatic reconstructions can be used to directly quantify previously inaccessible metrics including spatial interactions between cellular components. We further demonstrated that such reconstructions can be used to automatically register light and electron microscopy images for correlative studies. We created an open data and open source web repository, OpenOrganelle, to share the data, computer code, and trained models, enabling scientists everywhere to query and further improve automatic reconstruction of these datasets.<br/>

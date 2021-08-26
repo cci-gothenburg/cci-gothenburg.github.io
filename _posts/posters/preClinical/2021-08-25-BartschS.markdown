@@ -1,0 +1,35 @@
+---
+title: "Molecular subtyping of breast cancer via intravoxel incoherent motion (IVIM)- diffusion weighted imaging (DWI) of the hypoxic tumor microenvironment"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- poster
+- preclinical
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Bartsch S.J.**<sup>1</sup>, Ehret V.<sup>2</sup>, Friske J.<sup>1</sup>,  Fröhlich V.<sup>3</sup>, Gombocz S.J.<sup>1</sup>, Laimer-Gruber D.<sup>1</sup>, Helbich T.H.<sup>1</sup>, Pinker K.<sup>4</sup>_
+
+1 Department of Biomedical Imaging an Image-Guided Therapy, Medical University of Vienna, Vienna, Austria
+
+2 Department of Internal Medicine III, Division of Endocrinology and Metabolism, Medical University of Vienna, Vienna, Austria
+
+3 University of Applied Sciences, Fachhochschule Wiener Neustadt GmbH, Wiener Neustadt, Austria
+
+4 Department of Radiology, Breast Imaging Service, Memorial SloanKettering Cancer Center, New York, USA
+
+## Abstract
+
+Breast cancer (BC) development is driven by genomic instability and alternating selective pressures from the tumor microenvironment (TME). Hypoxia has been identified as one of the key factors for inducing neovascularity (angiogenic switch) and subsequent tumor growth. Diffusion weighted imaging (DWI) measures the mobility of water molecules within tissue (Brownian motion), reflecting the cellular microenvironment that is typically hindered in BC. Intravoxel incoherent motion (IVIM) imaging allows to distinguish between intravascular perfusion and extravascular microstructural diffusion via the associated perfusion coefficient (D*) and IVIM fraction (fIVIM) as well as cellularity and tissue complexity via the diffusion coefficient (D).
+
+We hypothesize that IVIM-DWI gives insights into the TME induced neovascularity for an improved non-invasive characterization of molecular BC subtypes.
+
+Twenty-six nude mice were inoculated into the flank with low, intermediate and highly aggressive BC cells (luminal A: MCF-7 (n=10), Her2+: SKBR-3 (n=8), basal-like: MDA-MB 231 (n=8)). BC xenografts were imaged using the 9.4T Bruker BioSpin 94/30USR scanner and a segmented EPI sequence (TE: 26ms, TR: 1s, GD: 5ms, GS: 11ms, 8 segments) including at least 16 b-values was performed. 2D segmentations of vital BC tissue were created and DWI parameters were assessed by a bi-exponential fitting model.
+
+Of the IVIM-DWI parameters, fIVIM allows a significant differentiation between low/intermediate and highly aggressive BCs (p=0.007). In contrast, D* allows a significant differentiation of low and high aggressive tumors (p=0.036) only. No significant difference of molecular BC subtypes was observed for D.
+
+We conclude that several IVIM-DWI parameters allow insight into tumor neovascularity induced by the hypoxic TME. Among them fIVIM and D*, surrogates of neovascularity, allow non-invasive molecular subtyping of BCs. D, representing cellularity and tissue complexity, does not have this capability.

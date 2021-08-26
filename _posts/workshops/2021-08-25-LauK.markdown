@@ -1,0 +1,28 @@
+---
+title: "Providing in situ cryo-CLEM capabilities for any cryo-FIB/SEM systems – improve correlation accuracy and cryo-electron tomography sample yield"
+layout: post
+date: 2019-05-23 14:00
+image: https://pbs.twimg.com/profile_images/1260178183846006784/7N94wRif_400x400.png
+headerImage: true
+tag:
+- workshop
+- CLEM
+- DELMIC
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Katherine Lau**_
+
+DELMIC B.V.
+
+## Abstract
+
+Cryo-electron tomography (cryo-ET) is a very powerful technique and can enable molecular interactions within the native cellular environment to be studied on a nanometre scale. However, cryo-ET requires the region of interest in the cell to be thinned to a lamella that is 150-300 nm thick. The lamella generation process is currently so challenging that the sample yield is typically about 10-15%.
+
+Fluorescence labelling the molecules of interest can help increase the success of lamella targeting. Until recently, researchers had to perform the fluorescence imaging in a separate cryo-fluorescence light microscopy (cryo-FLM) and then transport the sample to a cryo-focused ion beam (FIB)/scanning electron microscopy (SEM). The image registration process is time consuming and the transfer steps between microscopes increase risks of sample damage and ice contamination.
+
+DELMIC developed and launched the first commercially available cryo-FLM that can be integrated into any manufacturer’s FIB/SEM for in situ cryo-FLM. METEOR can increase the lamella sample yield through better FLM and SEM correlation and decreasing transfer steps. With METEOR, users can inspect the lamella during the FIB milling process and adjust their milling pattern according to the fluorescence data if needed. The fewer transfer steps and therefore lower ice contamination lead to better tomography data. Last but not least, the in situ fluorescence inspection allows users to spend cryo transmission electron microscope time on only the useful lamellae, thereby increases the time and cost efficiencies drastically.  
+
+METEOR helps scientists get valuable biological insight through cryo-ET much more easily.

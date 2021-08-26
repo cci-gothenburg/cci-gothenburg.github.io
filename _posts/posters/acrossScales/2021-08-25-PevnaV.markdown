@@ -1,0 +1,22 @@
+---
+title: "Effect of PBM on rotenone-damaged ultrastructure of glioma cells"
+layout: post
+date: 2021-08-25 14:00
+image: 
+headerImage: false
+tag:
+- poster
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Viktoria Pevna**<sup>1</sup>, Silvia Tomkova<sup>1</sup>, Katarina Stroffekova<sup>1</sup> and Veronika Huntosova<sup>2</sup>_
+
+1 Department of Biophysics, FS UPJS in Kosice, Slovakia
+2 Center of Interdisciplinary Biosciences , TIP UPJS in Kosice, Slovakia
+
+## Abstract
+
+Glioma cells are known worldwide as a rapidly progressive form of CNS cancer with a high mortality rate and limited therapeutic options due to the blood-brain barrier. Considering this fact, a promising approach to tumour cell destruction is taking place in reactive oxygen species (ROS). There is evidence that rotenone, the widely used insecticide and pesticide that acts primarily on mitochondria, rapidly increases ROS levels in cells after exposure. We hypothesise that rotenone induces oxidative stress and its level can be decreased by photobiomodulation (PBM) in both healthy and damaged cells. In this work, the changes in mitochondrial morphology with Rhodamine 123 were observed by confocal fluorescence microscopy and the changes in autophagy by imunnolabelling with LC3B and giantin. Western blot assay showed changes in protein levels of LC3B and enzymes active in ROS defence (catalase, SOD1, thioredoxin). The result showed significant fission of mitochondria after rotenone exposure, accompanied by increased expression of LC3B and the degree of autophagy. We saw remodulation of Golgi apparatus (which was damaged by rotenone) after the use of PBM. PBM further supported the process of autophagy. Finally, PBM reduced the destructive effect of rotenone on mitochondria and Golgi apparatus. It is expected to increase autophagy and thus detoxification rate. In addition, rotenone is expected to be removed from cells and eliminate damaged organelles. This work is the result of the implementation of the Open scientific community for modern interdisciplinary research in medicine (OPENMED) project, ITMS2014+: 313011V455, supported by Operational Programme Integrated Infrastructure, the EU COST Action CA17121 COMULIS, UPJS FS internal grant (vvgs-pf-2021-1788) and VEGA 1-0421-18.
