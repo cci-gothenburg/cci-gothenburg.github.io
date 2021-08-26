@@ -3,6 +3,8 @@ layout: page
 title: Abstracts COMULIS 2021
 ---
 
+![Drag Racing](https://images.squarespace-cdn.com/content/v1/5b65562812b13f4790f5df9c/1583267858319-B47BEOEKPYMVISL25UPU/comulis_COST.png?format=1500w)
+
 ## Abstracts for the COMULIS Conference, September 2021
 
 ---
