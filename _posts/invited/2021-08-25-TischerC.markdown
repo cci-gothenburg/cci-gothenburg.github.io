@@ -1,0 +1,35 @@
+---
+title: "MOBIE: a free and open-source platform for integration and could based sharing of multi-modal correlative big image data"
+layout: post
+date: 2019-05-23 14:00
+image: https://avatars.githubusercontent.com/u/2157566?v=4
+headerImage: true
+tag:
+- invited
+- CLEM
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_Constantin Pape, Kimberly Meechan, Valentyna Zinchenko, Martin Schorb, Hernando Vergara, Detlev Arendt, Anna Kreshuk, Yannick Schwab, **Christian Tischer**_<br/>
+EMBL Heidelberg, Meyerhofstr. 1, 69121 Heidelberg<br/>
+
+## Abstract
+
+Recently, we presented the registration of a whole-body cellular expression atlas to a high-resolution electron microscopy (EM) dataset, automatic segmentation of all cell somata and nuclei, and clustering of the cells according to gene expression or morphological parameters [1]. This dataset is a valuable resource containing rich biological information. However, the size and complexity of this holistic resource (currently 231 image sources adding up to 2.02 TB lossless compressed image data, including EM,  light microscopy, segmentation images and segment feature tables) poses a challenge to its effective interrogation for scientific discovery. To integrate this dataset we developed MoBIE: a free and open-source platform for multi-modal big image data exploration and sharing. MoBIE (https://github.com/mobie/mobie) consists of an object store backend for cloud based image data sharing, GitHub based storage of tabular data, and an easy to install Fiji [3] plugin for integrated browsing of the whole dataset. The image data is stored in a compressed, chunked and object store compatible data format where only the chunks needed for the current rendering are downloaded into the Fiji viewer. In addition, the image data is stored as a resolution pyramid enabling exploration at different scales. As a consequence, even TB-sized image data can be smoothly explored at arbitrary orientations and zoom levels on a standard computer. In addition, we provide interactive viewing modalities for image segmentations, including segment feature tables, segment feature scatterplots and segment volume rendering (Fig. 1). All viewers are linked, sharing the same image segments selection and coloring model.
+
+It soon became apparent that, in addition to [1], also other datasets including various modalities such as EM tomography [5] can be efficiently shared using this platform. In fact, within few months MoBIE transformed the way we integrate and share multi-modal big image data at our institute. We are therefore excited to present this platform as we hope that it will facilitate multi-modal image data exploration and sharing also at other institutions.
+
+## References
+
+1. Vergara et al., “Whole-body integration of gene expression and single-cell morphology”, bioRxiv, https://doi.org/10.1101/2020.02.26.961037, 2020
+
+2. Schindelin et al., “Fiji: an open-source platform for biological-image analysis”, 2012, Nat. Methods 9, 676–682.
+
+3. Pietzsch et al., “BigDataViewer: visualization and processing for large image data sets”, 2015, Nat. Methods 12, 481–483.
+
+4. Schmid et al., "A high-level 3D visualization API for Java and ImageJ", 2010, BMC Bioinformatics, 11(1): 1
+
+5. Cortese et al., “Integrative Imaging Reveals SARS-CoV-2-Induced Reshaping of Subcellular Morphologies”, Cell Host & Microbe, 2020, 28, 853-866.e5<br/>

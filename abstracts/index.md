@@ -30,6 +30,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Masson,<br/>Jean-Baptiste**           | <br/>[Graph neural network approach to anomalous random walks characterisation: application to unsupervised membrane protein dynamics analysis](/MassonJ)<br/><br/>
 **Müller,<br/>Ralph**           | <br/>[Multiscale LivE imaging of bone remodeling and regeneration](/MullerR)<br/><br/>
 **Sartori-Rupp,<br/>Anna**       | <br/>[Correlative cryo-microscopy: a 3D glance into intact cells with nanometer resolution](/SartoriRuppA)<br/><br/>
+**Tischer,<br/>Christian**   | <br/>[MOBIE: a free and open-source platform for integration and could based sharing of multi-modal correlative big image data](/TischerC)<br/><br/>
 **Tomaszewski,<br/>Michal R.**   | <br/>[Co-registration of optoacoustic tomography and magnetic resonance imaging data from murine tumour models](/TomaszewskiM)<br/><br/>
 **Weigel,<br/>Aubrey**           | <br/>[Whole cell organelle segmentation in volume electron microscopy](/WeigelA)<br/><br/>
 
@@ -168,6 +169,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Srinivas,<br/>Mangala**       | <br/>[Muldimodal imaging for cell tracking: Bench to Bedside (and back)](/SrinivasM)<br/><br/>
 **Srinivas,<br/>Mangala**       | <br/>[Unusual nanoparticles for multiscale imaging in personalised medicine: From bench to bedside](/SrinivasMp)<br/><br/>
 **Taubitz,<br/>Tatjana**        | <br/>[Ion based multimodal in situ imaging in biological systems: introducing the npSCOPE](/TaubitzT)<br/><br/>
+**Tischer,<br/>Christian**   | <br/>[MOBIE: a free and open-source platform for integration and could based sharing of multi-modal correlative big image data](/TischerC)<br/><br/>
 **Tomaszewski,<br/>Michal R.**   | <br/>[Co-registration of optoacoustic tomography and magnetic resonance imaging data from murine tumour models](/TomaszewskiM)<br/><br/>
 **Weigel,<br/>Aubrey**           | <br/>[Whole cell organelle segmentation in volume electron microscopy](/WeigelA)<br/><br/>
 **Wetzer,<br/>Elisabeth**       | <br/>[Registration of Multimodal Microscopy Images using CoMIR – learned structural image representations](/WetzerE)<br/><br/>
