@@ -26,10 +26,12 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 :--------------------------------| :---
 **Aswendt,<br/>Markus**         | <br/>[Reactive gliosis is a critical pathophysiological component in normalization of functional connectivity after stroke](/AswendtM)<br/><br/>
 **Eliceiri,<br/>Kevin**           | <br/>[Multiscale Imaging of collagen topology in cancer invasion and progression](/EliceiriK)<br/><br/>
+**Kerckhofs,<br/>Greet**  | <br/>[Contrast-enhanced ex vivo microCT imaging for virtual 3D histology of biological tissues](/KerckhofsG)<br/><br/>
 **Kollmannsberger,<br/>Philip**  | <br/>[Correlation of Light- and Electron Microscopic Images with Convolutional Neural Networks](/KollmannsbergerP)<br/><br/>
 **Masson,<br/>Jean-Baptiste**           | <br/>[Graph neural network approach to anomalous random walks characterisation: application to unsupervised membrane protein dynamics analysis](/MassonJ)<br/><br/>
 **Müller,<br/>Ralph**           | <br/>[Multiscale LivE imaging of bone remodeling and regeneration](/MullerR)<br/><br/>
 **Sartori-Rupp,<br/>Anna**       | <br/>[Correlative cryo-microscopy: a 3D glance into intact cells with nanometer resolution](/SartoriRuppA)<br/><br/>
+**Schwab,<br/>Yannick**       | <br/>[From gene expression atlases to ultrastructure: the contribution of multimodal imaging to study specific cell types in multicellular organisms](/SchwabY)<br/><br/>
 **Tischer,<br/>Christian**   | <br/>[MOBIE: a free and open-source platform for integration and could based sharing of multi-modal correlative big image data](/TischerC)<br/><br/>
 **Tomaszewski,<br/>Michal R.**   | <br/>[Co-registration of optoacoustic tomography and magnetic resonance imaging data from murine tumour models](/TomaszewskiM)<br/><br/>
 **Weigel,<br/>Aubrey**           | <br/>[Whole cell organelle segmentation in volume electron microscopy](/WeigelA)<br/><br/>
@@ -149,6 +151,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Fernández-Monreal,<br/>Mónica**   | <br/>[Cryo-SuperResolution implementation for Cryo-CLEM workflows](/Fernandez-MonrealM)<br/><br/>
 **Fowler,<br/>Donald&nbsp;A.**     | <br/>[Optical Projection Tomography and Light-Sheet Microscopy Combined: Multimodal Mesoscopic Imaging](/FowlerD)<br/><br/>
 **Jolic,<br/>Martina**            | <br/>[Bone Beyond Borders – Monetite-Based Calcium Phosphate Induces Bone Formation Outside The Skeletal Envelope In An Ovis Aries Occipital Bone Model](/JolicM)<br/><br/>
+**Kerckhofs,<br/>Greet**  | <br/>[Contrast-enhanced ex vivo microCT imaging for virtual 3D histology of biological tissues](/KerckhofsG)<br/><br/>
 **Kollmannsberger,<br/>Philip**  | <br/>[Correlation of Light- and Electron Microscopic Images with Convolutional Neural Networks](/KollmannsbergerP)<br/><br/>
 **Konstantinopoulou,<br/>Eleni**            | <br/>[Investigating tuberculosis pathology in the human lung with 3D X-ray Histology; a correlative imaging approach](/KonstantinopoulouE)<br/><br/>
 **Lang,<br/>Marion**         |<br/>[ZEISS Correlative Cryo Workflow – from image acquisition to visualization & analysis](/LangM)<br/><br/>
@@ -165,6 +168,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 **Rigort,<br/>Alexander**    |  <br/>[Cryo-CLEM inside the Aquilos Cryo-FIB using a new integrated fluorescence light microscope](/RigortA)<br/><br/>
 **Rouchota,<br/>Maritina**        | <br/>[A preclinical platform that combines dynamic scintigraphy, SPECT and CT imaging towards bone defect diagnosis and therapy assessment](/RouchotaM)<br/><br/>
 **Sartori-Rupp,<br/>Anna**       | <br/>[Correlative cryo-microscopy: a 3D glance into intact cells with nanometer resolution](/SartoriRuppA)<br/><br/>
+**Schwab,<br/>Yannick**       | <br/>[From gene expression atlases to ultrastructure: the contribution of multimodal imaging to study specific cell types in multicellular organisms](/SchwabY)<br/><br/>
 **Schweikhard,<br/>Volker**  |  <br/>[From CLEM to chemical contrast](/SchweikhardV)<br/><br/>
 **Srinivas,<br/>Mangala**       | <br/>[Muldimodal imaging for cell tracking: Bench to Bedside (and back)](/SrinivasM)<br/><br/>
 **Srinivas,<br/>Mangala**       | <br/>[Unusual nanoparticles for multiscale imaging in personalised medicine: From bench to bedside](/SrinivasMp)<br/><br/>

@@ -1,0 +1,25 @@
+---
+title: "From gene expression atlases to ultrastructure: the contribution of multimodal imaging to study specific cell types in multicellular organisms"
+layout: post
+date: 2019-05-23 14:00
+image: https://www-db.embl.de/EMBLPersonGroup-PersonPicture/GetPicture?ID=CP-60016118.jpg
+headerImage: true
+tag:
+- invited
+- CLEM
+- imaging-across-scales
+category: projects
+author:
+#description: Markdown summary with different options
+---
+
+_**Yannick Schwab**_<br/>
+EMBL Heidelberg, Meyerhofstr. 1, 69121 Heidelberg, Germany<br/>
+
+## Abstract
+
+Capitalising on the highly stereotypical development of the marine annelid Platynereis dumerilii, we combined fluorescence microscopy and volume EM on multiple specimens at the same developmental stage (6 pdf). By fluorescent in situ hybridisation (FISH), we could map with high precision the expression pattern of more than 200 genes, and serial block face scanning electron microscopy (SBEM) enabled sub-cellular imaging of one full larvae, containing nearly 12000 cells. Further analysis of both modalities lead us to explore in great details how cell types can be characterised from the combination of which genes they express and which specific sub-cellular morphologies they develop.
+
+This work is the result of a large and interdisciplinary consortium, and is now fully accessible online [1].
+
+[1] Vergara HM, Pape C, Meechan KI, Zinchenko V, Genoud C, Wanner AA, Mutemi KN, Titze B, Templin RM, Bertucci PY, Simakov O, Dürichen W, Machado P, Savage EL, Schermelleh L, Schwab Y, Friedrich RW, Kreshuk A, Tischer C, Arendt D. Whole-body integration of gene expression and single-cell morphology. Cell. 2021 Aug 7:S0092-8674(21)00876-X. doi: 10.1016/j.cell.2021.07.017. Epub ahead of print. PMID: 34380046.<br/>
